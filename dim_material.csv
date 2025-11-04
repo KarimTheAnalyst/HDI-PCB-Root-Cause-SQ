@@ -1,0 +1,7 @@
+material_id,material_name,supplier,resin_system,dielectric_type,unit_cost_per_m2,material_category
+MAT-001,FR-4,Panasonic,Standard Tg,106/1080,8.5,Standard
+MAT-002,FR-4 High Tg,Isola,370HR,2116,10.2,Standard
+MAT-003,Megtron 6,Panasonic,Low Dk/Df,3313,16.5,High Performance
+MAT-004,Megtron 7,Panasonic,Ultra Low Loss,3348,19.0,High Performance
+MAT-005,Isola Tachyon 100G,Isola,High Speed,1080,18.5,High Performance
+MAT-006,Rogers 4350B,Rogers,Hydrocarbon Ceramic,RO4350B,22.0,Premium

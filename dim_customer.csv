@@ -1,0 +1,351 @@
+customer_id,customer_name,customer_type,country,country_code,region,status
+CUST-0001,Global Component AB,Networking Equipment,Finland,FIN,Europe,Active
+CUST-0002,Swift Component Global,Railway Systems,France,FRA,Europe,Active
+CUST-0003,Micro Link SpA,Marine Electronics,United Arab Emirates,ARE,Middle East,Active
+CUST-0004,QuickControl,Gaming & Entertainment,Turkey,TUR,Middle East,Active
+CUST-0005,SysInc,Broadcasting Equipment,Switzerland,CHE,Europe,Active
+CUST-0006,Tron SA,Medical Devices,South Korea,KOR,Asia,Active
+CUST-0007,Atlas Solutions Electronics,Computing Hardware,Argentina,ARG,South America,Active
+CUST-0008,Pro LLC,Automotive,India,IND,Asia,Active
+CUST-0009,SystemsElectronics,IoT Devices,New Zealand,NZL,Oceania,Active
+CUST-0010,Rapid Net AS,Networking Equipment,France,FRA,Europe,Active
+CUST-0011,Gamma Industries,Smart Home,Colombia,COL,South America,Active
+CUST-0012,Link AB,Automotive,South Africa,ZAF,Africa,Active
+CUST-0013,ProComponent,Aerospace & Defense,Finland,FIN,Europe,Active
+CUST-0014,Industries Global,Scientific Instruments,Denmark,DNK,Europe,Active
+CUST-0015,Nexus Manufacturing Corp,Wearables,Japan,JPN,Asia,Active
+CUST-0016,PlusSystems,IoT Devices,Japan,JPN,Asia,Active
+CUST-0017,Inno Industries,Computing Hardware,Sweden,SWE,Europe,Active
+CUST-0018,SignalAB,Gaming & Entertainment,Brazil,BRA,South America,Active
+CUST-0019,Titan SpA,Test & Measurement,Netherlands,NLD,Europe,Active
+CUST-0020,Ultra Tron AG,Marine Electronics,Vietnam,VNM,Asia,Active
+CUST-0021,Tech Industries,Computing Hardware,Saudi Arabia,SAU,Middle East,Inactive
+CUST-0022,Swift Component LLC,Semiconductor,Turkey,TUR,Middle East,Active
+CUST-0023,Tech AS,Aerospace & Defense,Vietnam,VNM,Asia,Active
+CUST-0024,Connect AG,Medical Devices,United Arab Emirates,ARE,Middle East,Active
+CUST-0025,Manufacturing International,IoT Devices,Argentina,ARG,South America,Active
+CUST-0026,ProAssembly,Consumer Electronics,Saudi Arabia,SAU,Middle East,Active
+CUST-0027,Global LLC,Robotics,Singapore,SGP,Asia,Active
+CUST-0028,PlusBoard,Audio & Video,France,FRA,Europe,Active
+CUST-0029,Pro Assembly GmbH,Scientific Instruments,Netherlands,NLD,Europe,Active
+CUST-0030,WaveAB,Marine Electronics,Saudi Arabia,SAU,Middle East,Active
+CUST-0031,QuickLogic,Scientific Instruments,Malaysia,MYS,Asia,Active
+CUST-0032,Neo Industries,Networking Equipment,Spain,ESP,Europe,Active
+CUST-0033,Circuit Group,Networking Equipment,Australia,AUS,Oceania,Active
+CUST-0034,Digital Module Corp,Automotive,Denmark,DNK,Europe,Active
+CUST-0035,Board International,Computing Hardware,Finland,FIN,Europe,Active
+CUST-0036,ProTron,Railway Systems,New Zealand,NZL,Oceania,Active
+CUST-0037,Supreme SA,Medical Devices,Italy,ITA,Europe,Active
+CUST-0038,Rigid Solutions,Audio & Video,Philippines,PHL,Asia,Active
+CUST-0039,Smart Flex Technologies,Networking Equipment,Italy,ITA,Europe,Active
+CUST-0040,MultiGmbH,Aerospace & Defense,Vietnam,VNM,Asia,Active
+CUST-0041,DigitalMulti,Medical Devices,Australia,AUS,Oceania,Active
+CUST-0042,ManufacturingInc,Semiconductor,France,FRA,Europe,Active
+CUST-0043,SupremeLayer,IoT Devices,Hong Kong,HKG,Asia,Active
+CUST-0044,Apex Flex Inc,Computing Hardware,India,IND,Asia,Active
+CUST-0045,Delta Solutions,Scientific Instruments,Australia,AUS,Oceania,Active
+CUST-0046,QuantumLogic,Telecommunications,Austria,AUT,Europe,Active
+CUST-0047,PCBTechnologies,Telecommunications,Germany,DEU,Europe,Active
+CUST-0048,IndustriesInternational,Telecommunications,Switzerland,CHE,Europe,Inactive
+CUST-0049,Summit Board Holdings,Scientific Instruments,United Kingdom,GBR,Europe,Active
+CUST-0050,Ultra Group,Railway Systems,Finland,FIN,Europe,Active
+CUST-0051,BoardSolutions,Railway Systems,Egypt,EGY,Africa,Active
+CUST-0052,Industries AB,Scientific Instruments,Austria,AUT,Europe,Active
+CUST-0053,BetaFlex,Scientific Instruments,Netherlands,NLD,Europe,Active
+CUST-0054,Sigma Ltd,Security Systems,United States,USA,North America,Active
+CUST-0055,TechLtd,IoT Devices,Turkey,TUR,Middle East,Active
+CUST-0056,AtlasSystems,Networking Equipment,United Kingdom,GBR,Europe,Active
+CUST-0057,SuperiorManufacturing,Broadcasting Equipment,Turkey,TUR,Middle East,Active
+CUST-0058,CircuitGlobal,Scientific Instruments,China,CHN,Asia,Active
+CUST-0059,BetaTech,Audio & Video,Italy,ITA,Europe,Active
+CUST-0060,Logic Holdings,Broadcasting Equipment,Austria,AUT,Europe,Active
+CUST-0061,Connect Manufacturing,Telecommunications,Norway,NOR,Europe,Active
+CUST-0062,Gamma Corp,Energy & Power,United States,USA,North America,Active
+CUST-0063,Wave Industries,Broadcasting Equipment,Australia,AUS,Oceania,Active
+CUST-0064,Ultra Board GmbH,Telecommunications,Turkey,TUR,Middle East,Active
+CUST-0065,SignalGmbH,Industrial Automation,Vietnam,VNM,Asia,Active
+CUST-0066,Systems Corp,IoT Devices,Taiwan,TWN,Asia,Active
+CUST-0067,Atlas Assembly Global,Marine Electronics,Thailand,THA,Asia,Active
+CUST-0068,ApexFabrication,Gaming & Entertainment,Poland,POL,Europe,Active
+CUST-0069,Fabrication Solutions,Audio & Video,Egypt,EGY,Africa,Active
+CUST-0070,Wave LLC,Telecommunications,India,IND,Asia,Active
+CUST-0071,QuantumManufacturing,Smart Home,Philippines,PHL,Asia,Active
+CUST-0072,NexusCircuit,IoT Devices,Egypt,EGY,Africa,Active
+CUST-0073,Solutions Ltd,Smart Home,Ireland,IRL,Europe,Active
+CUST-0074,Swift Global,Consumer Electronics,South Korea,KOR,Asia,Active
+CUST-0075,Wave Group,Telecommunications,Norway,NOR,Europe,Active
+CUST-0076,Atlas Technologies,Marine Electronics,Vietnam,VNM,Asia,Inactive
+CUST-0077,Zenith Systems Group,Computing Hardware,Belgium,BEL,Europe,Active
+CUST-0078,Advanced International,Scientific Instruments,Turkey,TUR,Middle East,Active
+CUST-0079,TitanRigid,Scientific Instruments,United Kingdom,GBR,Europe,Active
+CUST-0080,ChipLLC,Test & Measurement,China,CHN,Asia,Active
+CUST-0081,Sigma Systems,Military & Defense,Czech Republic,CZE,Europe,Active
+CUST-0082,Rapid Systems,Marine Electronics,Poland,POL,Europe,Active
+CUST-0083,Max Inc,Robotics,China,CHN,Asia,Active
+CUST-0084,DataTechnologies,Security Systems,Philippines,PHL,Asia,Active
+CUST-0085,MetaLayer,Scientific Instruments,Switzerland,CHE,Europe,Active
+CUST-0086,InterfaceHoldings,Automotive,South Korea,KOR,Asia,Active
+CUST-0087,SwiftLogic,IoT Devices,Denmark,DNK,Europe,Active
+CUST-0088,Alpha Layer Holdings,Security Systems,United Kingdom,GBR,Europe,Active
+CUST-0089,LinkSystems,Wearables,Israel,ISR,Middle East,Active
+CUST-0090,Nano Assembly Solutions,Aerospace & Defense,Denmark,DNK,Europe,Active
+CUST-0091,MultiCorp,Networking Equipment,Australia,AUS,Oceania,Active
+CUST-0092,Mega Tron Industries,Test & Measurement,Egypt,EGY,Africa,Inactive
+CUST-0093,ChipIndustries,Audio & Video,Chile,CHL,South America,Active
+CUST-0094,Max Industries,Audio & Video,Switzerland,CHE,Europe,Active
+CUST-0095,Beta SpA,Computing Hardware,Colombia,COL,South America,Active
+CUST-0096,LayerSpA,Security Systems,Ireland,IRL,Europe,Active
+CUST-0097,Net AB,Energy & Power,South Korea,KOR,Asia,Active
+CUST-0098,Prime Tron SpA,Broadcasting Equipment,India,IND,Asia,Active
+CUST-0099,DigitalRigid,Energy & Power,Thailand,THA,Asia,Active
+CUST-0100,Smart SA,Wearables,Thailand,THA,Asia,Active
+CUST-0101,ModuleInc,Wearables,New Zealand,NZL,Oceania,Active
+CUST-0102,Logic Systems,Military & Defense,Thailand,THA,Asia,Active
+CUST-0103,FabricationHoldings,LED & Lighting,Denmark,DNK,Europe,Active
+CUST-0104,Super Inc,Energy & Power,India,IND,Asia,Active
+CUST-0105,Agile AG,Industrial Automation,Philippines,PHL,Asia,Inactive
+CUST-0106,CircuitSystems,Railway Systems,Brazil,BRA,South America,Active
+CUST-0107,Inno Rigid GmbH,Aerospace & Defense,Philippines,PHL,Asia,Active
+CUST-0108,Sigma SA,Energy & Power,Philippines,PHL,Asia,Active
+CUST-0109,Gamma Solutions,Automotive,Norway,NOR,Europe,Active
+CUST-0110,PCBElectronics,Agricultural Tech,Denmark,DNK,Europe,Active
+CUST-0111,Global Net SA,Marine Electronics,Canada,CAN,North America,Active
+CUST-0112,HyperInterface,Railway Systems,Spain,ESP,Europe,Active
+CUST-0113,Fast AB,Aerospace & Defense,Singapore,SGP,Asia,Active
+CUST-0114,Apex Logic LLC,Consumer Electronics,Brazil,BRA,South America,Active
+CUST-0115,InterfaceSystems,Broadcasting Equipment,Malaysia,MYS,Asia,Active
+CUST-0116,ModuleSpA,Broadcasting Equipment,Italy,ITA,Europe,Active
+CUST-0117,FabricationLLC,Telecommunications,New Zealand,NZL,Oceania,Active
+CUST-0118,Rapid Electronics,Test & Measurement,United Kingdom,GBR,Europe,Active
+CUST-0119,Supreme Manufacturing Manufacturing,Gaming & Entertainment,Italy,ITA,Europe,Inactive
+CUST-0120,Quick GmbH,Aerospace & Defense,Vietnam,VNM,Asia,Active
+CUST-0121,Data Global,Security Systems,Hong Kong,HKG,Asia,Active
+CUST-0122,SysTechnologies,Automotive,Finland,FIN,Europe,Active
+CUST-0123,Alpha Industries,Marine Electronics,New Zealand,NZL,Oceania,Active
+CUST-0124,Circuit Manufacturing,Aerospace & Defense,Japan,JPN,Asia,Active
+CUST-0125,Fabrication AB,Computing Hardware,South Korea,KOR,Asia,Active
+CUST-0126,Signal Inc,IoT Devices,Saudi Arabia,SAU,Middle East,Active
+CUST-0127,Super Global,Broadcasting Equipment,Finland,FIN,Europe,Active
+CUST-0128,Superior Inc,Robotics,France,FRA,Europe,Active
+CUST-0129,OmegaInterface,Smart Home,Brazil,BRA,South America,Active
+CUST-0130,SemiSolutions,Energy & Power,Australia,AUS,Oceania,Active
+CUST-0131,Gamma AS,Networking Equipment,Norway,NOR,Europe,Active
+CUST-0132,SigmaTech,Semiconductor,Turkey,TUR,Middle East,Active
+CUST-0133,VertexComponent,Computing Hardware,Hong Kong,HKG,Asia,Active
+CUST-0134,DataAS,IoT Devices,Italy,ITA,Europe,Active
+CUST-0135,Wave AS,Broadcasting Equipment,United States,USA,North America,Active
+CUST-0136,PCB Corp,Robotics,Australia,AUS,Oceania,Active
+CUST-0137,ElectroSolutions,Medical Devices,Israel,ISR,Middle East,Active
+CUST-0138,LogicManufacturing,Security Systems,Hong Kong,HKG,Asia,Active
+CUST-0139,Beta Solutions Manufacturing,Automotive,Spain,ESP,Europe,Active
+CUST-0140,Plus Control Corp,Industrial Automation,Sweden,SWE,Europe,Active
+CUST-0141,Board SpA,Military & Defense,Spain,ESP,Europe,Active
+CUST-0142,DataHoldings,Semiconductor,Denmark,DNK,Europe,Active
+CUST-0143,Superior AS,Gaming & Entertainment,Brazil,BRA,South America,Active
+CUST-0144,PCBHoldings,Semiconductor,Italy,ITA,Europe,Active
+CUST-0145,BetaInterface,Aerospace & Defense,France,FRA,Europe,Active
+CUST-0146,BoardAG,Gaming & Entertainment,United States,USA,North America,Active
+CUST-0147,LayerAS,Networking Equipment,Mexico,MEX,North America,Active
+CUST-0148,Module Industries,Scientific Instruments,United Kingdom,GBR,Europe,Active
+CUST-0149,Fabrication Group,IoT Devices,Egypt,EGY,Africa,Active
+CUST-0150,NetGmbH,Industrial Automation,Ireland,IRL,Europe,Active
+CUST-0151,OmegaData,Robotics,New Zealand,NZL,Oceania,Active
+CUST-0152,Fast AS,Computing Hardware,Malaysia,MYS,Asia,Active
+CUST-0153,Superior Ltd,Telecommunications,Argentina,ARG,South America,Active
+CUST-0154,Data AB,Automotive,Canada,CAN,North America,Active
+CUST-0155,PowerInc,Railway Systems,Ireland,IRL,Europe,Active
+CUST-0156,HyperConnect,Security Systems,South Africa,ZAF,Africa,Active
+CUST-0157,CoreRigid,LED & Lighting,Colombia,COL,South America,Inactive
+CUST-0158,Atlas Solutions,Energy & Power,South Korea,KOR,Asia,Active
+CUST-0159,PhoenixRigid,Robotics,Israel,ISR,Middle East,Active
+CUST-0160,Max Corp,Automotive,Philippines,PHL,Asia,Active
+CUST-0161,Tech Systems,Consumer Electronics,United Arab Emirates,ARE,Middle East,Active
+CUST-0162,MultiSolutions,IoT Devices,Germany,DEU,Europe,Active
+CUST-0163,AssemblyManufacturing,Security Systems,Colombia,COL,South America,Active
+CUST-0164,GammaSignal,Robotics,Netherlands,NLD,Europe,Active
+CUST-0165,Ultra Inc,Marine Electronics,Colombia,COL,South America,Active
+CUST-0166,OmegaSignal,Military & Defense,United States,USA,North America,Active
+CUST-0167,UltraMulti,Agricultural Tech,Spain,ESP,Europe,Active
+CUST-0168,Quick AS,Broadcasting Equipment,United Arab Emirates,ARE,Middle East,Active
+CUST-0169,Hyper SpA,Military & Defense,Philippines,PHL,Asia,Active
+CUST-0170,TechConnect,Automotive,Netherlands,NLD,Europe,Active
+CUST-0171,Phoenix International,Consumer Electronics,Ireland,IRL,Europe,Active
+CUST-0172,Manufacturing Group,Scientific Instruments,Brazil,BRA,South America,Active
+CUST-0173,SuperiorSignal,Smart Home,Hong Kong,HKG,Asia,Active
+CUST-0174,FlexIndustries,IoT Devices,Japan,JPN,Asia,Inactive
+CUST-0175,PlusFlex,Semiconductor,Denmark,DNK,Europe,Active
+CUST-0176,Component Manufacturing,Wearables,India,IND,Asia,Inactive
+CUST-0177,SuperPCB,Test & Measurement,Netherlands,NLD,Europe,Inactive
+CUST-0178,Solutions LLC,Medical Devices,Indonesia,IDN,Asia,Active
+CUST-0179,Advanced GmbH,Agricultural Tech,Thailand,THA,Asia,Inactive
+CUST-0180,Hyper Fabrication AB,Marine Electronics,South Korea,KOR,Asia,Active
+CUST-0181,Phoenix Solutions Global,Energy & Power,India,IND,Asia,Active
+CUST-0182,Pro Corp,Automotive,Chile,CHL,South America,Active
+CUST-0183,Net Ltd,Medical Devices,Vietnam,VNM,Asia,Active
+CUST-0184,Superior Wave AS,Telecommunications,Canada,CAN,North America,Active
+CUST-0185,Delta Semi Electronics,Industrial Automation,Vietnam,VNM,Asia,Active
+CUST-0186,Plus AG,Aerospace & Defense,Switzerland,CHE,Europe,Active
+CUST-0187,Digi SpA,Railway Systems,Israel,ISR,Middle East,Active
+CUST-0188,Electro AB,Computing Hardware,Philippines,PHL,Asia,Active
+CUST-0189,Delta Global,Automotive,Switzerland,CHE,Europe,Active
+CUST-0190,Power AS,Gaming & Entertainment,Colombia,COL,South America,Active
+CUST-0191,Omega SA,LED & Lighting,India,IND,Asia,Active
+CUST-0192,Plus Electronics,Robotics,New Zealand,NZL,Oceania,Inactive
+CUST-0193,Circuit Systems,Consumer Electronics,Ireland,IRL,Europe,Active
+CUST-0194,Tech Component Manufacturing,Semiconductor,Czech Republic,CZE,Europe,Active
+CUST-0195,FabricationElectronics,Agricultural Tech,Denmark,DNK,Europe,Active
+CUST-0196,Interface GmbH,Medical Devices,Colombia,COL,South America,Active
+CUST-0197,Omega Fabrication Industries,Railway Systems,Mexico,MEX,North America,Active
+CUST-0198,MicroIndustries,Energy & Power,Czech Republic,CZE,Europe,Active
+CUST-0199,QuantumTron,Smart Home,Turkey,TUR,Middle East,Active
+CUST-0200,Manufacturing AG,LED & Lighting,Norway,NOR,Europe,Inactive
+CUST-0201,Component Technologies,Security Systems,Spain,ESP,Europe,Inactive
+CUST-0202,NexusSolutions,Military & Defense,Malaysia,MYS,Asia,Active
+CUST-0203,Advanced AB,Medical Devices,Turkey,TUR,Middle East,Active
+CUST-0204,Power Systems,Smart Home,Colombia,COL,South America,Active
+CUST-0205,HyperCircuit,Military & Defense,Chile,CHL,South America,Active
+CUST-0206,NetLtd,Security Systems,Colombia,COL,South America,Active
+CUST-0207,Control Solutions,Industrial Automation,Spain,ESP,Europe,Active
+CUST-0208,Omega Layer LLC,Networking Equipment,Italy,ITA,Europe,Active
+CUST-0209,ZenithMulti,Scientific Instruments,Singapore,SGP,Asia,Active
+CUST-0210,RigidGroup,Gaming & Entertainment,Sweden,SWE,Europe,Active
+CUST-0211,Digi Solutions,Telecommunications,Ireland,IRL,Europe,Active
+CUST-0212,SuperiorMulti,Smart Home,Finland,FIN,Europe,Active
+CUST-0213,Signal Electronics,Wearables,Germany,DEU,Europe,Active
+CUST-0214,Mega Board SA,Agricultural Tech,South Africa,ZAF,Africa,Active
+CUST-0215,Smart Fabrication Technologies,Industrial Automation,Finland,FIN,Europe,Active
+CUST-0216,DigitalManufacturing,IoT Devices,Australia,AUS,Oceania,Active
+CUST-0217,PhoenixAssembly,Marine Electronics,Sweden,SWE,Europe,Active
+CUST-0218,PrimeSignal,Aerospace & Defense,Norway,NOR,Europe,Active
+CUST-0219,Prime Circuit Electronics,Railway Systems,Finland,FIN,Europe,Active
+CUST-0220,BetaPCB,Audio & Video,Netherlands,NLD,Europe,Active
+CUST-0221,Digital Layer Industries,Test & Measurement,Singapore,SGP,Asia,Active
+CUST-0222,Meta SpA,Telecommunications,Chile,CHL,South America,Active
+CUST-0223,LogicIndustries,Consumer Electronics,South Africa,ZAF,Africa,Active
+CUST-0224,Optimal Solutions,LED & Lighting,Italy,ITA,Europe,Active
+CUST-0225,Digital Ltd,Marine Electronics,Japan,JPN,Asia,Active
+CUST-0226,GammaData,Railway Systems,Colombia,COL,South America,Active
+CUST-0227,Flex Holdings,Robotics,Saudi Arabia,SAU,Middle East,Active
+CUST-0228,RigidLLC,Agricultural Tech,Spain,ESP,Europe,Active
+CUST-0229,ComponentSA,Security Systems,Vietnam,VNM,Asia,Active
+CUST-0230,Phoenix Industries,Gaming & Entertainment,Malaysia,MYS,Asia,Active
+CUST-0231,Rigid Technologies,Computing Hardware,Egypt,EGY,Africa,Active
+CUST-0232,SwiftIndustries,Automotive,Hong Kong,HKG,Asia,Active
+CUST-0233,Micro Rigid LLC,Industrial Automation,Singapore,SGP,Asia,Active
+CUST-0234,SignalGlobal,Scientific Instruments,South Korea,KOR,Asia,Active
+CUST-0235,Solutions Solutions,Robotics,Germany,DEU,Europe,Active
+CUST-0236,Tech Group,IoT Devices,United Arab Emirates,ARE,Middle East,Active
+CUST-0237,Nexus LLC,Military & Defense,Taiwan,TWN,Asia,Active
+CUST-0238,Power SpA,Military & Defense,Vietnam,VNM,Asia,Inactive
+CUST-0239,DataGlobal,Marine Electronics,Canada,CAN,North America,Active
+CUST-0240,Circuit AG,Broadcasting Equipment,Ireland,IRL,Europe,Active
+CUST-0241,Semi Inc,Industrial Automation,Poland,POL,Europe,Active
+CUST-0242,Digital GmbH,Consumer Electronics,Colombia,COL,South America,Active
+CUST-0243,Mega Technologies,Smart Home,Switzerland,CHE,Europe,Active
+CUST-0244,Assembly Group,Automotive,Argentina,ARG,South America,Active
+CUST-0245,ApexAssembly,Telecommunications,Chile,CHL,South America,Active
+CUST-0246,Multi Solutions,Marine Electronics,Israel,ISR,Middle East,Active
+CUST-0247,Link International,Smart Home,Spain,ESP,Europe,Active
+CUST-0248,Interface Group,Test & Measurement,Israel,ISR,Middle East,Active
+CUST-0249,Nexus Flex Holdings,Consumer Electronics,Germany,DEU,Europe,Active
+CUST-0250,PrimeAssembly,Robotics,Norway,NOR,Europe,Active
+CUST-0251,Super Component Solutions,Industrial Automation,Poland,POL,Europe,Active
+CUST-0252,MetaSignal,Smart Home,Egypt,EGY,Africa,Active
+CUST-0253,Premier Circuit Industries,Energy & Power,United Kingdom,GBR,Europe,Active
+CUST-0254,FlexSolutions,Medical Devices,Czech Republic,CZE,Europe,Active
+CUST-0255,Wave Holdings,Broadcasting Equipment,Philippines,PHL,Asia,Active
+CUST-0256,Premier Solutions LLC,Gaming & Entertainment,Finland,FIN,Europe,Active
+CUST-0257,BoardSystems,Audio & Video,China,CHN,Asia,Active
+CUST-0258,Assembly AG,Test & Measurement,United Kingdom,GBR,Europe,Active
+CUST-0259,ConnectSA,Smart Home,Taiwan,TWN,Asia,Active
+CUST-0260,AlphaTech,Computing Hardware,Sweden,SWE,Europe,Active
+CUST-0261,TronLtd,Semiconductor,Poland,POL,Europe,Active
+CUST-0262,Plus Group,Scientific Instruments,Indonesia,IDN,Asia,Active
+CUST-0263,ControlHoldings,Agricultural Tech,Japan,JPN,Asia,Active
+CUST-0264,Digital Manufacturing,Agricultural Tech,Indonesia,IDN,Asia,Active
+CUST-0265,Power Corp,Test & Measurement,Taiwan,TWN,Asia,Active
+CUST-0266,Superior Corp,Smart Home,Germany,DEU,Europe,Active
+CUST-0267,Inno Solutions Ltd,Marine Electronics,Chile,CHL,South America,Active
+CUST-0268,Core Global,Security Systems,Mexico,MEX,North America,Active
+CUST-0269,ControlSA,Marine Electronics,Japan,JPN,Asia,Active
+CUST-0270,SmartMulti,Energy & Power,Italy,ITA,Europe,Inactive
+CUST-0271,Meta Control AG,Networking Equipment,Mexico,MEX,North America,Active
+CUST-0272,Neo International,Aerospace & Defense,Chile,CHL,South America,Active
+CUST-0273,Flex Solutions,Scientific Instruments,South Korea,KOR,Asia,Active
+CUST-0274,Board Technologies,Military & Defense,Italy,ITA,Europe,Active
+CUST-0275,Sys Holdings,Energy & Power,Sweden,SWE,Europe,Active
+CUST-0276,AtlasLogic,Broadcasting Equipment,South Africa,ZAF,Africa,Active
+CUST-0277,TechModule,Robotics,France,FRA,Europe,Active
+CUST-0278,Manufacturing GmbH,Broadcasting Equipment,Egypt,EGY,Africa,Active
+CUST-0279,SemiInc,Robotics,Singapore,SGP,Asia,Active
+CUST-0280,Quantum SpA,Industrial Automation,Netherlands,NLD,Europe,Active
+CUST-0281,Meta Assembly Global,Telecommunications,Saudi Arabia,SAU,Middle East,Active
+CUST-0282,TronHoldings,Industrial Automation,India,IND,Asia,Active
+CUST-0283,FabricationAG,Telecommunications,Indonesia,IDN,Asia,Active
+CUST-0284,SuperiorData,Semiconductor,Czech Republic,CZE,Europe,Active
+CUST-0285,Nexus Global,Robotics,Finland,FIN,Europe,Inactive
+CUST-0286,Quantum Electronics,Security Systems,New Zealand,NZL,Oceania,Active
+CUST-0287,Assembly Systems,Test & Measurement,United Arab Emirates,ARE,Middle East,Active
+CUST-0288,QuantumFabrication,Industrial Automation,Argentina,ARG,South America,Active
+CUST-0289,Inno Layer Electronics,Medical Devices,Australia,AUS,Oceania,Active
+CUST-0290,SolutionsLLC,Automotive,Czech Republic,CZE,Europe,Active
+CUST-0291,Multi International,Gaming & Entertainment,Sweden,SWE,Europe,Active
+CUST-0292,SuperiorSystems,Consumer Electronics,Taiwan,TWN,Asia,Active
+CUST-0293,Meta Electronics,Wearables,Finland,FIN,Europe,Inactive
+CUST-0294,Net Inc,Medical Devices,Japan,JPN,Asia,Active
+CUST-0295,Fabrication GmbH,Telecommunications,Netherlands,NLD,Europe,Active
+CUST-0296,Fast GmbH,Security Systems,Hong Kong,HKG,Asia,Active
+CUST-0297,Global Sys SA,Military & Defense,Sweden,SWE,Europe,Active
+CUST-0298,ConnectSolutions,Semiconductor,Spain,ESP,Europe,Active
+CUST-0299,Tech Corp,Gaming & Entertainment,Finland,FIN,Europe,Active
+CUST-0300,MultiLtd,LED & Lighting,Spain,ESP,Europe,Active
+CUST-0301,Electro Connect Group,Broadcasting Equipment,Finland,FIN,Europe,Active
+CUST-0302,Advanced Holdings,Networking Equipment,Taiwan,TWN,Asia,Active
+CUST-0303,RapidInterface,Test & Measurement,France,FRA,Europe,Inactive
+CUST-0304,Neo Signal International,Military & Defense,United Arab Emirates,ARE,Middle East,Active
+CUST-0305,Precision Systems,Computing Hardware,Singapore,SGP,Asia,Active
+CUST-0306,Fabrication Ltd,Networking Equipment,Taiwan,TWN,Asia,Active
+CUST-0307,Core Component Technologies,Telecommunications,Netherlands,NLD,Europe,Active
+CUST-0308,Fast Manufacturing,Aerospace & Defense,Colombia,COL,South America,Active
+CUST-0309,Quick Assembly Industries,Robotics,Mexico,MEX,North America,Active
+CUST-0310,PrecisionChip,Test & Measurement,China,CHN,Asia,Active
+CUST-0311,LayerAB,Semiconductor,Mexico,MEX,North America,Active
+CUST-0312,Semi Corp,Energy & Power,South Africa,ZAF,Africa,Active
+CUST-0313,Rigid Systems,Wearables,Indonesia,IDN,Asia,Active
+CUST-0314,SuperModule,Smart Home,Israel,ISR,Middle East,Active
+CUST-0315,SysLtd,Automotive,Vietnam,VNM,Asia,Active
+CUST-0316,ProLogic,Medical Devices,Japan,JPN,Asia,Active
+CUST-0317,Logic Industries,Broadcasting Equipment,Argentina,ARG,South America,Active
+CUST-0318,Atlas Industries,Audio & Video,Mexico,MEX,North America,Active
+CUST-0319,Data Solutions,Agricultural Tech,Ireland,IRL,Europe,Inactive
+CUST-0320,Digital Interface Systems,Test & Measurement,Singapore,SGP,Asia,Active
+CUST-0321,GlobalTron,Scientific Instruments,Argentina,ARG,South America,Active
+CUST-0322,Prime Board SpA,Smart Home,South Africa,ZAF,Africa,Active
+CUST-0323,SwiftMulti,Smart Home,Singapore,SGP,Asia,Active
+CUST-0324,Plus Tron International,Wearables,Singapore,SGP,Asia,Active
+CUST-0325,Net LLC,Audio & Video,Canada,CAN,North America,Active
+CUST-0326,FlexGlobal,Computing Hardware,Spain,ESP,Europe,Active
+CUST-0327,Vertex Holdings,Broadcasting Equipment,Czech Republic,CZE,Europe,Active
+CUST-0328,Quantum LLC,Automotive,Netherlands,NLD,Europe,Active
+CUST-0329,Micro Technologies,Smart Home,Egypt,EGY,Africa,Active
+CUST-0330,SignalAS,Aerospace & Defense,China,CHN,Asia,Active
+CUST-0331,TitanConnect,Medical Devices,Denmark,DNK,Europe,Inactive
+CUST-0332,AlphaFabrication,Consumer Electronics,Israel,ISR,Middle East,Active
+CUST-0333,SemiIndustries,Industrial Automation,Australia,AUS,Oceania,Active
+CUST-0334,Digital Logic Systems,Test & Measurement,Hong Kong,HKG,Asia,Active
+CUST-0335,Plus Ltd,Energy & Power,Netherlands,NLD,Europe,Active
+CUST-0336,Mega International,Industrial Automation,Taiwan,TWN,Asia,Active
+CUST-0337,ControlGroup,Semiconductor,Poland,POL,Europe,Inactive
+CUST-0338,Meta Corp,Test & Measurement,Spain,ESP,Europe,Active
+CUST-0339,ApexChip,Smart Home,Denmark,DNK,Europe,Active
+CUST-0340,SystemsAS,Computing Hardware,France,FRA,Europe,Active
+CUST-0341,SysGmbH,Robotics,Colombia,COL,South America,Active
+CUST-0342,PowerGmbH,Scientific Instruments,Switzerland,CHE,Europe,Active
+CUST-0343,ChipGroup,Consumer Electronics,Mexico,MEX,North America,Active
+CUST-0344,SysSA,Gaming & Entertainment,New Zealand,NZL,Oceania,Active
+CUST-0345,Super Systems Global,Agricultural Tech,Czech Republic,CZE,Europe,Inactive
+CUST-0346,Alpha Systems,Security Systems,China,CHN,Asia,Active
+CUST-0347,Apex Multi Solutions,Security Systems,Hong Kong,HKG,Asia,Active
+CUST-0348,TronTechnologies,Audio & Video,Japan,JPN,Asia,Inactive
+CUST-0349,Flex GmbH,Test & Measurement,Singapore,SGP,Asia,Active
+CUST-0350,Net Industries,Computing Hardware,Spain,ESP,Europe,Active

@@ -1,0 +1,864 @@
+maintenance_id,machine_id,maintenance_date,maintenance_type,downtime_hours,parts_cost_usd,labor_cost_usd,maintenance_description,next_maintenance_date
+MAINT-0001,MC-001,2023-02-11,Preventive,5.6,418.09,155.53,Corrective action - alignment issue,2023-05-04
+MAINT-0002,MC-001,2023-01-13,Preventive,4.1,424.88,132.55,Preventive maintenance - lubrication,2023-03-17
+MAINT-0003,MC-001,2023-09-23,Corrective,9.2,1204.21,258.63,Routine calibration and cleaning,2023-12-04
+MAINT-0004,MC-001,2023-03-28,Preventive,2.7,321.89,99.92,Routine calibration and cleaning,2023-05-04
+MAINT-0005,MC-001,2023-03-19,Preventive,2.6,325.0,98.21,Routine calibration and cleaning,2023-04-20
+MAINT-0006,MC-001,2023-02-17,Preventive,5.9,168.64,233.97,Routine calibration and cleaning,2023-04-30
+MAINT-0007,MC-002,2023-05-02,Emergency,16.3,4131.21,568.66,Replaced worn parts,2023-06-29
+MAINT-0008,MC-002,2023-10-16,Corrective,8.2,1483.22,248.31,Preventive maintenance - lubrication,2023-12-19
+MAINT-0009,MC-002,2023-04-23,Preventive,5.3,194.84,147.45,Replaced worn parts,2023-06-11
+MAINT-0010,MC-002,2023-03-20,Preventive,4.4,210.96,158.12,Routine calibration and cleaning,2023-05-16
+MAINT-0011,MC-002,2023-09-09,Preventive,4.6,165.33,146.47,Software update and diagnostics,2023-12-08
+MAINT-0012,MC-002,2023-11-14,Emergency,10.3,1815.05,354.77,Corrective action - alignment issue,2023-12-31
+MAINT-0013,MC-002,2023-12-21,Preventive,3.5,362.93,130.58,Replaced worn parts,2024-02-27
+MAINT-0014,MC-003,2023-03-11,Emergency,14.9,1103.64,507.41,Software update and diagnostics,2023-04-14
+MAINT-0015,MC-003,2023-02-18,Preventive,4.2,126.38,145.33,Software update and diagnostics,2023-04-12
+MAINT-0016,MC-003,2023-05-05,Corrective,5.8,311.84,177.81,Emergency repair - component failure,2023-06-18
+MAINT-0017,MC-003,2023-02-26,Emergency,10.8,3913.31,319.66,Emergency repair - component failure,2023-05-19
+MAINT-0018,MC-003,2023-02-17,Preventive,4.3,212.8,124.98,Routine calibration and cleaning,2023-03-25
+MAINT-0019,MC-003,2023-03-11,Emergency,14.2,2380.69,512.9,Preventive maintenance - lubrication,2023-05-30
+MAINT-0020,MC-003,2023-09-20,Corrective,7.2,1010.77,207.98,Preventive maintenance - lubrication,2023-12-02
+MAINT-0021,MC-003,2023-12-05,Corrective,5.1,981.07,147.95,Corrective action - alignment issue,2024-03-02
+MAINT-0022,MC-003,2023-11-12,Corrective,6.0,1030.44,213.61,Emergency repair - component failure,2023-12-23
+MAINT-0023,MC-003,2023-06-26,Preventive,3.1,481.05,101.71,Replaced worn parts,2023-09-09
+MAINT-0024,MC-004,2023-11-28,Preventive,3.2,408.23,120.57,Routine calibration and cleaning,2024-02-06
+MAINT-0025,MC-004,2023-02-24,Preventive,2.4,330.13,63.05,Preventive maintenance - lubrication,2023-04-13
+MAINT-0026,MC-004,2023-08-26,Corrective,11.7,808.78,381.77,Replaced worn parts,2023-11-10
+MAINT-0027,MC-004,2023-08-16,Preventive,6.0,455.23,212.81,Routine calibration and cleaning,2023-10-10
+MAINT-0028,MC-004,2023-10-07,Emergency,19.9,3856.64,707.22,Software update and diagnostics,2023-12-23
+MAINT-0029,MC-004,2023-04-24,Corrective,11.4,1499.0,446.58,Preventive maintenance - lubrication,2023-07-06
+MAINT-0030,MC-004,2023-01-20,Preventive,2.7,472.07,98.43,Replaced worn parts,2023-04-17
+MAINT-0031,MC-004,2023-03-03,Preventive,2.5,241.32,64.41,Emergency repair - component failure,2023-05-03
+MAINT-0032,MC-005,2023-06-04,Preventive,4.7,432.69,177.48,Routine calibration and cleaning,2023-08-27
+MAINT-0033,MC-005,2023-05-10,Preventive,3.1,100.89,106.85,Replaced worn parts,2023-07-04
+MAINT-0034,MC-005,2023-05-21,Preventive,5.6,474.17,214.97,Emergency repair - component failure,2023-08-13
+MAINT-0035,MC-005,2023-01-12,Preventive,3.8,219.34,101.11,Corrective action - alignment issue,2023-03-05
+MAINT-0036,MC-005,2023-03-13,Preventive,2.4,296.82,63.05,Replaced worn parts,2023-05-14
+MAINT-0037,MC-005,2023-07-04,Emergency,8.1,4077.79,232.89,Emergency repair - component failure,2023-09-02
+MAINT-0038,MC-006,2023-05-12,Preventive,2.7,424.62,71.9,Corrective action - alignment issue,2023-07-09
+MAINT-0039,MC-006,2023-08-06,Preventive,5.0,102.32,191.27,Replaced worn parts,2023-10-20
+MAINT-0040,MC-006,2023-02-07,Preventive,2.5,268.42,74.92,Replaced worn parts,2023-03-11
+MAINT-0041,MC-006,2023-11-07,Emergency,23.4,4931.71,626.7,Preventive maintenance - lubrication,2024-01-07
+MAINT-0042,MC-006,2023-08-26,Corrective,5.0,1201.31,183.53,Preventive maintenance - lubrication,2023-10-20
+MAINT-0043,MC-006,2023-12-24,Corrective,7.1,431.68,188.99,Replaced worn parts,2024-01-24
+MAINT-0044,MC-006,2023-03-12,Preventive,5.1,194.6,179.39,Emergency repair - component failure,2023-05-02
+MAINT-0045,MC-006,2023-10-24,Preventive,3.9,212.89,102.33,Replaced worn parts,2023-12-20
+MAINT-0046,MC-006,2023-10-05,Corrective,5.5,637.37,146.99,Corrective action - alignment issue,2023-11-20
+MAINT-0047,MC-007,2023-11-27,Preventive,3.9,413.09,103.53,Preventive maintenance - lubrication,2024-02-11
+MAINT-0048,MC-007,2023-10-06,Preventive,5.4,351.56,147.05,Replaced worn parts,2023-11-12
+MAINT-0049,MC-007,2023-07-02,Preventive,2.8,158.48,70.74,Routine calibration and cleaning,2023-08-13
+MAINT-0050,MC-007,2023-01-13,Preventive,3.2,353.32,91.11,Emergency repair - component failure,2023-03-05
+MAINT-0051,MC-007,2023-08-02,Preventive,4.6,221.72,133.58,Software update and diagnostics,2023-09-18
+MAINT-0052,MC-007,2023-12-14,Preventive,5.6,172.7,140.05,Corrective action - alignment issue,2024-02-24
+MAINT-0053,MC-007,2023-06-07,Preventive,3.1,342.61,97.54,Emergency repair - component failure,2023-07-23
+MAINT-0054,MC-008,2023-06-10,Preventive,4.7,373.18,171.82,Software update and diagnostics,2023-07-18
+MAINT-0055,MC-008,2023-06-24,Corrective,9.9,1006.69,337.3,Corrective action - alignment issue,2023-08-08
+MAINT-0056,MC-008,2023-05-07,Preventive,2.3,142.55,79.22,Routine calibration and cleaning,2023-07-14
+MAINT-0057,MC-008,2023-01-19,Emergency,22.1,4269.64,616.46,Routine calibration and cleaning,2023-03-18
+MAINT-0058,MC-008,2023-02-18,Corrective,6.4,869.04,233.05,Corrective action - alignment issue,2023-04-23
+MAINT-0059,MC-008,2023-03-02,Preventive,3.7,384.64,141.98,Preventive maintenance - lubrication,2023-05-19
+MAINT-0060,MC-008,2023-06-12,Preventive,4.9,464.34,127.48,Preventive maintenance - lubrication,2023-08-07
+MAINT-0061,MC-008,2023-09-26,Preventive,4.4,378.68,118.51,Preventive maintenance - lubrication,2023-10-28
+MAINT-0062,MC-008,2023-01-26,Emergency,11.0,4258.13,356.68,Preventive maintenance - lubrication,2023-03-31
+MAINT-0063,MC-009,2023-03-15,Corrective,7.1,1235.25,220.19,Replaced worn parts,2023-05-01
+MAINT-0064,MC-009,2023-03-01,Preventive,2.9,378.69,110.74,Preventive maintenance - lubrication,2023-05-20
+MAINT-0065,MC-009,2023-08-17,Corrective,8.2,664.09,232.1,Software update and diagnostics,2023-10-31
+MAINT-0066,MC-009,2023-09-04,Preventive,2.2,195.29,56.29,Software update and diagnostics,2023-10-13
+MAINT-0067,MC-009,2023-03-09,Corrective,4.4,1476.03,175.31,Preventive maintenance - lubrication,2023-04-21
+MAINT-0068,MC-010,2023-01-21,Preventive,4.4,247.64,115.49,Preventive maintenance - lubrication,2023-04-06
+MAINT-0069,MC-010,2023-05-24,Preventive,5.6,217.96,222.76,Routine calibration and cleaning,2023-08-02
+MAINT-0070,MC-010,2023-06-08,Corrective,6.2,607.18,156.45,Preventive maintenance - lubrication,2023-08-19
+MAINT-0071,MC-010,2023-02-24,Corrective,7.1,1084.59,270.16,Preventive maintenance - lubrication,2023-05-05
+MAINT-0072,MC-010,2023-09-07,Corrective,5.8,622.55,195.6,Emergency repair - component failure,2023-11-27
+MAINT-0073,MC-011,2023-08-08,Corrective,7.5,478.0,241.39,Replaced worn parts,2023-10-08
+MAINT-0074,MC-011,2023-08-06,Corrective,5.4,983.59,211.41,Corrective action - alignment issue,2023-09-16
+MAINT-0075,MC-011,2023-05-01,Preventive,5.5,427.0,194.21,Routine calibration and cleaning,2023-06-12
+MAINT-0076,MC-011,2023-03-03,Preventive,3.8,358.05,117.94,Preventive maintenance - lubrication,2023-05-18
+MAINT-0077,MC-011,2023-03-24,Corrective,4.1,419.68,126.12,Routine calibration and cleaning,2023-04-30
+MAINT-0078,MC-011,2023-11-02,Preventive,5.1,207.06,199.3,Routine calibration and cleaning,2024-01-09
+MAINT-0079,MC-012,2023-02-18,Corrective,6.7,1148.95,187.83,Preventive maintenance - lubrication,2023-04-19
+MAINT-0080,MC-012,2023-08-27,Preventive,3.3,161.81,85.27,Software update and diagnostics,2023-11-09
+MAINT-0081,MC-012,2023-11-18,Preventive,5.3,141.13,156.09,Emergency repair - component failure,2024-01-19
+MAINT-0082,MC-012,2023-03-01,Emergency,8.4,2708.54,228.57,Software update and diagnostics,2023-05-11
+MAINT-0083,MC-013,2023-11-13,Corrective,9.7,1381.94,314.06,Replaced worn parts,2023-12-20
+MAINT-0084,MC-013,2023-02-10,Preventive,4.5,147.34,174.82,Routine calibration and cleaning,2023-05-09
+MAINT-0085,MC-013,2023-01-20,Preventive,3.7,233.94,102.57,Replaced worn parts,2023-03-18
+MAINT-0086,MC-013,2023-11-22,Preventive,5.3,239.35,140.76,Emergency repair - component failure,2024-02-18
+MAINT-0087,MC-013,2023-11-12,Emergency,21.0,3845.23,549.06,Replaced worn parts,2023-12-12
+MAINT-0088,MC-013,2023-11-05,Preventive,3.6,388.54,132.42,Routine calibration and cleaning,2024-01-04
+MAINT-0089,MC-013,2023-02-19,Preventive,4.9,157.87,146.24,Replaced worn parts,2023-03-29
+MAINT-0090,MC-014,2023-06-11,Preventive,3.9,489.14,132.7,Software update and diagnostics,2023-08-20
+MAINT-0091,MC-014,2023-03-26,Emergency,22.7,2532.74,754.55,Preventive maintenance - lubrication,2023-05-29
+MAINT-0092,MC-014,2023-08-18,Preventive,2.9,133.45,103.6,Preventive maintenance - lubrication,2023-10-20
+MAINT-0093,MC-014,2023-12-26,Corrective,9.6,582.23,240.41,Routine calibration and cleaning,2024-03-19
+MAINT-0094,MC-014,2023-06-18,Preventive,2.5,144.06,96.68,Replaced worn parts,2023-08-10
+MAINT-0095,MC-014,2023-05-15,Preventive,5.4,488.73,208.95,Replaced worn parts,2023-06-29
+MAINT-0096,MC-014,2023-04-02,Corrective,4.9,1134.94,133.02,Routine calibration and cleaning,2023-06-17
+MAINT-0097,MC-014,2023-12-14,Preventive,4.8,365.1,125.31,Preventive maintenance - lubrication,2024-03-06
+MAINT-0098,MC-014,2023-03-01,Preventive,2.6,198.02,65.49,Emergency repair - component failure,2023-05-23
+MAINT-0099,MC-014,2023-03-25,Preventive,5.0,399.24,177.39,Emergency repair - component failure,2023-05-13
+MAINT-0100,MC-015,2023-12-11,Preventive,4.6,105.28,122.68,Corrective action - alignment issue,2024-01-13
+MAINT-0101,MC-015,2023-01-20,Corrective,8.0,313.04,299.92,Emergency repair - component failure,2023-04-03
+MAINT-0102,MC-015,2023-09-23,Corrective,11.4,902.25,406.3,Replaced worn parts,2023-11-19
+MAINT-0103,MC-015,2023-05-03,Preventive,5.9,150.05,166.25,Routine calibration and cleaning,2023-07-11
+MAINT-0104,MC-015,2023-04-13,Preventive,5.0,323.72,188.13,Corrective action - alignment issue,2023-07-04
+MAINT-0105,MC-015,2023-08-16,Preventive,4.6,430.9,126.37,Software update and diagnostics,2023-11-05
+MAINT-0106,MC-015,2023-11-14,Preventive,2.4,131.12,81.71,Software update and diagnostics,2024-02-06
+MAINT-0107,MC-015,2023-01-08,Preventive,4.2,126.13,142.62,Software update and diagnostics,2023-03-27
+MAINT-0108,MC-015,2023-04-18,Preventive,5.7,196.13,149.77,Preventive maintenance - lubrication,2023-06-23
+MAINT-0109,MC-015,2023-01-19,Emergency,15.7,1192.2,414.45,Routine calibration and cleaning,2023-03-09
+MAINT-0110,MC-016,2023-05-13,Preventive,3.3,256.26,100.11,Corrective action - alignment issue,2023-06-20
+MAINT-0111,MC-016,2023-11-04,Preventive,5.6,301.43,182.18,Replaced worn parts,2024-01-22
+MAINT-0112,MC-016,2023-01-19,Corrective,7.8,1342.57,199.38,Replaced worn parts,2023-02-28
+MAINT-0113,MC-016,2023-11-15,Preventive,4.5,481.13,128.13,Corrective action - alignment issue,2023-12-28
+MAINT-0114,MC-016,2023-11-05,Corrective,5.3,1456.4,173.55,Preventive maintenance - lubrication,2024-01-20
+MAINT-0115,MC-016,2023-11-17,Emergency,13.5,4141.41,406.15,Preventive maintenance - lubrication,2024-01-09
+MAINT-0116,MC-016,2023-07-02,Corrective,10.2,765.16,286.95,Preventive maintenance - lubrication,2023-09-09
+MAINT-0117,MC-016,2023-02-05,Preventive,6.0,138.96,151.34,Software update and diagnostics,2023-04-25
+MAINT-0118,MC-016,2023-09-28,Emergency,20.5,1348.67,541.44,Replaced worn parts,2023-11-17
+MAINT-0119,MC-017,2023-03-03,Preventive,3.5,135.69,96.91,Emergency repair - component failure,2023-05-21
+MAINT-0120,MC-017,2023-05-16,Emergency,20.2,2768.18,785.02,Routine calibration and cleaning,2023-08-14
+MAINT-0121,MC-017,2023-10-16,Preventive,5.4,260.38,204.42,Corrective action - alignment issue,2024-01-12
+MAINT-0122,MC-017,2023-03-15,Preventive,5.4,480.82,165.27,Emergency repair - component failure,2023-05-27
+MAINT-0123,MC-017,2023-09-15,Preventive,5.5,373.02,188.7,Routine calibration and cleaning,2023-11-25
+MAINT-0124,MC-017,2023-12-26,Preventive,5.3,103.18,200.32,Emergency repair - component failure,2024-02-12
+MAINT-0125,MC-017,2023-03-19,Preventive,2.3,255.29,73.45,Software update and diagnostics,2023-04-23
+MAINT-0126,MC-017,2023-08-15,Corrective,11.2,857.82,294.42,Routine calibration and cleaning,2023-10-30
+MAINT-0127,MC-018,2023-07-07,Preventive,2.3,236.97,78.35,Corrective action - alignment issue,2023-08-19
+MAINT-0128,MC-018,2023-12-16,Preventive,3.8,318.03,149.07,Corrective action - alignment issue,2024-01-24
+MAINT-0129,MC-018,2023-04-11,Preventive,6.0,409.68,155.62,Software update and diagnostics,2023-07-01
+MAINT-0130,MC-018,2023-07-16,Preventive,2.8,109.18,101.86,Software update and diagnostics,2023-09-11
+MAINT-0131,MC-018,2023-05-21,Preventive,2.6,209.56,68.19,Corrective action - alignment issue,2023-08-14
+MAINT-0132,MC-018,2023-08-28,Preventive,2.9,457.23,80.51,Routine calibration and cleaning,2023-09-30
+MAINT-0133,MC-018,2023-07-11,Emergency,12.8,1794.42,500.85,Emergency repair - component failure,2023-09-09
+MAINT-0134,MC-018,2023-09-23,Corrective,11.7,824.14,452.66,Emergency repair - component failure,2023-11-28
+MAINT-0135,MC-018,2023-01-18,Corrective,8.8,393.37,308.17,Replaced worn parts,2023-03-28
+MAINT-0136,MC-018,2023-06-22,Emergency,23.0,3971.35,829.17,Routine calibration and cleaning,2023-08-11
+MAINT-0137,MC-019,2023-08-05,Preventive,3.3,416.81,115.86,Preventive maintenance - lubrication,2023-09-20
+MAINT-0138,MC-019,2023-12-01,Emergency,23.1,4429.07,797.28,Preventive maintenance - lubrication,2024-02-09
+MAINT-0139,MC-019,2023-02-02,Preventive,5.9,268.07,195.83,Preventive maintenance - lubrication,2023-03-14
+MAINT-0140,MC-019,2023-07-07,Preventive,5.8,488.7,195.18,Software update and diagnostics,2023-08-06
+MAINT-0141,MC-019,2023-06-01,Preventive,3.2,427.62,85.99,Corrective action - alignment issue,2023-08-01
+MAINT-0142,MC-019,2023-08-14,Preventive,3.4,316.99,111.68,Software update and diagnostics,2023-10-31
+MAINT-0143,MC-020,2023-03-15,Preventive,2.7,337.96,89.48,Software update and diagnostics,2023-05-08
+MAINT-0144,MC-020,2023-11-23,Corrective,9.1,1142.51,355.52,Routine calibration and cleaning,2024-02-18
+MAINT-0145,MC-020,2023-02-26,Corrective,4.7,319.71,183.24,Emergency repair - component failure,2023-04-03
+MAINT-0146,MC-020,2023-12-25,Corrective,8.4,1060.23,273.42,Routine calibration and cleaning,2024-03-15
+MAINT-0147,MC-020,2023-11-10,Corrective,5.7,1232.26,189.66,Replaced worn parts,2023-12-17
+MAINT-0148,MC-021,2023-02-12,Emergency,22.6,2651.74,843.12,Corrective action - alignment issue,2023-04-28
+MAINT-0149,MC-021,2023-07-01,Emergency,20.5,3030.24,594.79,Software update and diagnostics,2023-09-11
+MAINT-0150,MC-021,2023-05-27,Emergency,22.5,3693.2,563.9,Emergency repair - component failure,2023-08-23
+MAINT-0151,MC-021,2023-01-01,Preventive,5.2,436.31,170.48,Preventive maintenance - lubrication,2023-03-19
+MAINT-0152,MC-021,2023-06-11,Preventive,4.3,272.01,143.35,Replaced worn parts,2023-08-05
+MAINT-0153,MC-021,2023-10-21,Preventive,2.2,472.78,69.16,Corrective action - alignment issue,2024-01-19
+MAINT-0154,MC-021,2023-07-24,Preventive,5.6,306.91,176.74,Corrective action - alignment issue,2023-08-29
+MAINT-0155,MC-021,2023-03-17,Preventive,4.3,256.8,156.66,Software update and diagnostics,2023-06-13
+MAINT-0156,MC-021,2023-09-06,Emergency,11.3,1373.06,356.64,Preventive maintenance - lubrication,2023-11-15
+MAINT-0157,MC-021,2023-03-01,Corrective,8.3,1466.88,278.69,Corrective action - alignment issue,2023-04-01
+MAINT-0158,MC-021,2023-12-05,Emergency,18.2,4110.36,505.93,Replaced worn parts,2024-02-14
+MAINT-0159,MC-022,2023-04-18,Corrective,9.8,1268.52,300.58,Corrective action - alignment issue,2023-06-03
+MAINT-0160,MC-022,2023-01-09,Preventive,2.6,109.26,103.41,Routine calibration and cleaning,2023-04-04
+MAINT-0161,MC-022,2023-02-15,Emergency,10.0,1567.34,289.3,Routine calibration and cleaning,2023-03-28
+MAINT-0162,MC-022,2023-02-16,Corrective,11.3,549.57,299.56,Routine calibration and cleaning,2023-05-07
+MAINT-0163,MC-022,2023-07-03,Preventive,4.5,184.12,140.84,Software update and diagnostics,2023-09-27
+MAINT-0164,MC-022,2023-11-15,Corrective,5.4,312.17,149.47,Corrective action - alignment issue,2024-01-20
+MAINT-0165,MC-022,2023-10-28,Preventive,5.9,497.5,190.33,Preventive maintenance - lubrication,2024-01-05
+MAINT-0166,MC-022,2023-09-01,Preventive,5.0,470.63,139.46,Preventive maintenance - lubrication,2023-10-02
+MAINT-0167,MC-023,2023-09-17,Corrective,5.7,737.87,219.33,Software update and diagnostics,2023-10-18
+MAINT-0168,MC-023,2023-03-08,Preventive,4.8,150.63,139.7,Routine calibration and cleaning,2023-04-19
+MAINT-0169,MC-023,2023-06-23,Preventive,3.2,398.08,103.8,Emergency repair - component failure,2023-08-24
+MAINT-0170,MC-023,2023-04-09,Preventive,4.7,454.93,137.32,Routine calibration and cleaning,2023-06-03
+MAINT-0171,MC-024,2023-03-26,Preventive,4.9,273.39,155.29,Corrective action - alignment issue,2023-06-02
+MAINT-0172,MC-024,2023-05-27,Preventive,2.4,253.22,67.19,Software update and diagnostics,2023-07-18
+MAINT-0173,MC-024,2023-11-27,Preventive,2.7,113.5,88.21,Emergency repair - component failure,2024-02-02
+MAINT-0174,MC-024,2023-05-20,Corrective,9.2,1458.17,278.61,Routine calibration and cleaning,2023-06-20
+MAINT-0175,MC-024,2023-03-26,Preventive,5.2,243.1,135.67,Software update and diagnostics,2023-06-06
+MAINT-0176,MC-024,2023-06-05,Corrective,5.0,682.31,125.82,Replaced worn parts,2023-07-26
+MAINT-0177,MC-024,2023-08-19,Corrective,11.2,973.97,344.78,Replaced worn parts,2023-10-26
+MAINT-0178,MC-024,2023-09-07,Preventive,3.1,343.16,118.58,Corrective action - alignment issue,2023-12-01
+MAINT-0179,MC-025,2023-10-21,Preventive,5.0,227.11,149.01,Routine calibration and cleaning,2023-12-02
+MAINT-0180,MC-025,2023-08-16,Preventive,3.1,147.7,98.55,Software update and diagnostics,2023-10-23
+MAINT-0181,MC-025,2023-10-13,Preventive,2.1,107.13,77.17,Routine calibration and cleaning,2023-12-18
+MAINT-0182,MC-025,2023-08-10,Preventive,5.9,114.8,194.71,Routine calibration and cleaning,2023-10-12
+MAINT-0183,MC-025,2023-06-21,Preventive,3.9,431.94,121.78,Software update and diagnostics,2023-08-09
+MAINT-0184,MC-026,2023-06-13,Preventive,5.1,297.53,131.1,Corrective action - alignment issue,2023-08-01
+MAINT-0185,MC-026,2023-08-16,Corrective,11.7,445.7,358.12,Routine calibration and cleaning,2023-10-24
+MAINT-0186,MC-026,2023-01-08,Preventive,2.0,142.05,59.69,Corrective action - alignment issue,2023-03-23
+MAINT-0187,MC-026,2023-07-08,Preventive,2.8,460.91,85.49,Preventive maintenance - lubrication,2023-10-03
+MAINT-0188,MC-026,2023-01-23,Corrective,6.1,1241.93,162.64,Software update and diagnostics,2023-04-23
+MAINT-0189,MC-026,2023-02-09,Preventive,4.5,424.99,130.72,Replaced worn parts,2023-03-21
+MAINT-0190,MC-026,2023-10-15,Preventive,3.3,159.2,111.41,Emergency repair - component failure,2024-01-07
+MAINT-0191,MC-026,2023-11-15,Corrective,8.2,588.63,263.78,Software update and diagnostics,2024-01-15
+MAINT-0192,MC-026,2023-06-25,Corrective,5.8,616.57,170.77,Software update and diagnostics,2023-07-30
+MAINT-0193,MC-027,2023-04-22,Corrective,10.8,1133.96,282.17,Routine calibration and cleaning,2023-06-22
+MAINT-0194,MC-027,2023-04-01,Corrective,7.7,762.07,248.82,Replaced worn parts,2023-05-22
+MAINT-0195,MC-027,2023-10-25,Preventive,5.4,404.2,160.26,Corrective action - alignment issue,2023-12-23
+MAINT-0196,MC-027,2023-03-28,Preventive,5.7,187.51,173.59,Preventive maintenance - lubrication,2023-05-25
+MAINT-0197,MC-027,2023-09-07,Corrective,5.5,633.41,151.05,Preventive maintenance - lubrication,2023-10-26
+MAINT-0198,MC-027,2023-11-04,Preventive,5.5,398.01,157.35,Emergency repair - component failure,2024-01-30
+MAINT-0199,MC-027,2023-03-09,Preventive,4.6,281.06,133.32,Preventive maintenance - lubrication,2023-06-06
+MAINT-0200,MC-027,2023-02-12,Preventive,2.6,300.88,84.81,Emergency repair - component failure,2023-03-17
+MAINT-0201,MC-027,2023-05-12,Preventive,4.6,392.8,144.16,Replaced worn parts,2023-06-29
+MAINT-0202,MC-027,2023-07-06,Preventive,4.1,297.45,129.16,Routine calibration and cleaning,2023-09-17
+MAINT-0203,MC-027,2023-11-08,Emergency,11.5,1212.55,293.66,Replaced worn parts,2023-12-25
+MAINT-0204,MC-027,2023-02-18,Preventive,2.9,348.09,103.64,Emergency repair - component failure,2023-04-14
+MAINT-0205,MC-028,2023-04-24,Corrective,9.5,894.21,261.87,Software update and diagnostics,2023-06-06
+MAINT-0206,MC-028,2023-11-10,Corrective,6.3,303.73,174.99,Corrective action - alignment issue,2024-02-06
+MAINT-0207,MC-028,2023-10-16,Corrective,10.8,1125.52,297.58,Routine calibration and cleaning,2023-12-28
+MAINT-0208,MC-028,2023-03-06,Preventive,3.8,484.9,132.96,Software update and diagnostics,2023-05-02
+MAINT-0209,MC-028,2023-01-06,Emergency,22.1,1682.9,804.53,Preventive maintenance - lubrication,2023-02-05
+MAINT-0210,MC-029,2023-08-19,Preventive,5.5,289.03,141.23,Preventive maintenance - lubrication,2023-09-19
+MAINT-0211,MC-029,2023-11-10,Corrective,8.2,500.77,223.03,Routine calibration and cleaning,2023-12-16
+MAINT-0212,MC-029,2023-05-26,Corrective,7.6,1181.78,302.84,Corrective action - alignment issue,2023-07-11
+MAINT-0213,MC-029,2023-08-09,Preventive,2.1,241.05,74.87,Preventive maintenance - lubrication,2023-11-04
+MAINT-0214,MC-029,2023-11-28,Corrective,10.7,881.23,310.82,Corrective action - alignment issue,2024-01-30
+MAINT-0215,MC-029,2023-11-01,Preventive,3.6,188.1,143.68,Emergency repair - component failure,2023-12-23
+MAINT-0216,MC-029,2023-01-08,Preventive,4.8,272.29,134.85,Replaced worn parts,2023-02-12
+MAINT-0217,MC-029,2023-07-21,Preventive,3.1,350.76,102.84,Emergency repair - component failure,2023-10-17
+MAINT-0218,MC-029,2023-09-06,Preventive,4.7,455.2,145.07,Software update and diagnostics,2023-11-01
+MAINT-0219,MC-030,2023-04-02,Preventive,4.8,433.67,128.85,Emergency repair - component failure,2023-06-21
+MAINT-0220,MC-030,2023-10-26,Corrective,6.3,1463.36,204.65,Replaced worn parts,2024-01-07
+MAINT-0221,MC-030,2023-08-22,Preventive,5.9,349.52,206.29,Emergency repair - component failure,2023-10-10
+MAINT-0222,MC-030,2023-05-03,Corrective,4.1,349.14,119.91,Routine calibration and cleaning,2023-07-09
+MAINT-0223,MC-030,2023-01-16,Preventive,3.7,364.1,92.54,Replaced worn parts,2023-03-03
+MAINT-0224,MC-030,2023-06-10,Corrective,8.0,1450.23,267.29,Corrective action - alignment issue,2023-07-15
+MAINT-0225,MC-030,2023-05-05,Emergency,11.1,3340.9,290.94,Routine calibration and cleaning,2023-06-18
+MAINT-0226,MC-030,2023-08-12,Preventive,4.7,254.5,145.64,Routine calibration and cleaning,2023-11-07
+MAINT-0227,MC-031,2023-05-20,Preventive,4.3,371.57,128.3,Replaced worn parts,2023-07-26
+MAINT-0228,MC-031,2023-11-25,Preventive,2.5,321.71,73.79,Software update and diagnostics,2023-12-30
+MAINT-0229,MC-031,2023-10-21,Preventive,2.7,412.96,101.27,Replaced worn parts,2023-11-26
+MAINT-0230,MC-031,2023-09-15,Corrective,8.0,1122.2,242.91,Emergency repair - component failure,2023-11-06
+MAINT-0231,MC-031,2023-08-14,Emergency,15.4,4650.23,391.1,Emergency repair - component failure,2023-11-01
+MAINT-0232,MC-031,2023-02-25,Preventive,5.6,414.65,188.75,Replaced worn parts,2023-04-19
+MAINT-0233,MC-031,2023-10-18,Corrective,11.0,364.24,414.44,Emergency repair - component failure,2023-11-25
+MAINT-0234,MC-031,2023-11-01,Preventive,5.1,307.2,191.7,Routine calibration and cleaning,2023-12-06
+MAINT-0235,MC-032,2023-11-04,Preventive,2.4,216.23,77.33,Routine calibration and cleaning,2023-12-25
+MAINT-0236,MC-032,2023-02-24,Preventive,4.0,386.78,142.09,Replaced worn parts,2023-04-28
+MAINT-0237,MC-032,2023-09-24,Emergency,10.2,4580.21,352.87,Software update and diagnostics,2023-11-02
+MAINT-0238,MC-032,2023-11-10,Corrective,11.5,1266.74,395.08,Routine calibration and cleaning,2023-12-22
+MAINT-0239,MC-032,2023-02-01,Preventive,5.5,307.93,157.89,Emergency repair - component failure,2023-03-09
+MAINT-0240,MC-032,2023-01-27,Preventive,3.6,470.42,106.2,Replaced worn parts,2023-03-28
+MAINT-0241,MC-032,2023-04-27,Corrective,6.1,1035.31,192.68,Preventive maintenance - lubrication,2023-07-08
+MAINT-0242,MC-032,2023-02-14,Preventive,2.1,156.67,75.95,Replaced worn parts,2023-03-31
+MAINT-0243,MC-033,2023-12-23,Preventive,3.9,216.01,136.55,Emergency repair - component failure,2024-02-28
+MAINT-0244,MC-033,2023-06-22,Preventive,3.5,419.94,111.86,Emergency repair - component failure,2023-09-12
+MAINT-0245,MC-033,2023-03-01,Preventive,2.5,255.77,84.27,Corrective action - alignment issue,2023-04-02
+MAINT-0246,MC-033,2023-11-22,Corrective,4.3,1388.47,169.6,Corrective action - alignment issue,2024-01-20
+MAINT-0247,MC-033,2023-08-09,Preventive,2.6,300.26,98.58,Software update and diagnostics,2023-09-21
+MAINT-0248,MC-033,2023-12-17,Preventive,2.3,362.37,69.64,Preventive maintenance - lubrication,2024-03-02
+MAINT-0249,MC-033,2023-06-15,Corrective,10.3,634.01,375.32,Emergency repair - component failure,2023-08-03
+MAINT-0250,MC-033,2023-02-27,Corrective,7.0,866.1,244.19,Corrective action - alignment issue,2023-05-04
+MAINT-0251,MC-033,2023-09-25,Corrective,6.1,1137.32,206.38,Software update and diagnostics,2023-12-01
+MAINT-0252,MC-033,2023-10-20,Corrective,4.5,335.43,161.97,Routine calibration and cleaning,2023-12-03
+MAINT-0253,MC-033,2023-11-04,Preventive,4.7,229.46,133.82,Corrective action - alignment issue,2024-01-22
+MAINT-0254,MC-033,2023-04-04,Corrective,5.4,1370.97,196.22,Routine calibration and cleaning,2023-05-30
+MAINT-0255,MC-034,2023-10-09,Preventive,5.4,129.15,196.83,Corrective action - alignment issue,2023-12-16
+MAINT-0256,MC-034,2023-01-06,Preventive,4.8,251.05,191.2,Preventive maintenance - lubrication,2023-03-13
+MAINT-0257,MC-034,2023-04-07,Preventive,3.8,214.44,106.47,Emergency repair - component failure,2023-05-17
+MAINT-0258,MC-034,2023-09-26,Corrective,4.7,329.09,185.17,Replaced worn parts,2023-11-01
+MAINT-0259,MC-035,2023-03-01,Preventive,3.6,318.63,93.89,Corrective action - alignment issue,2023-04-11
+MAINT-0260,MC-035,2023-12-24,Corrective,8.0,1298.88,268.44,Preventive maintenance - lubrication,2024-02-22
+MAINT-0261,MC-035,2023-06-12,Corrective,8.5,465.45,221.06,Corrective action - alignment issue,2023-08-08
+MAINT-0262,MC-035,2023-07-28,Preventive,2.3,412.95,67.79,Emergency repair - component failure,2023-09-03
+MAINT-0263,MC-036,2023-01-20,Preventive,2.1,428.53,61.63,Software update and diagnostics,2023-04-13
+MAINT-0264,MC-036,2023-07-23,Preventive,5.5,163.15,161.27,Preventive maintenance - lubrication,2023-09-25
+MAINT-0265,MC-036,2023-04-28,Preventive,4.4,224.9,150.83,Corrective action - alignment issue,2023-07-01
+MAINT-0266,MC-036,2023-02-19,Preventive,5.7,205.22,145.06,Emergency repair - component failure,2023-04-11
+MAINT-0267,MC-036,2023-05-07,Preventive,5.1,155.72,169.35,Software update and diagnostics,2023-07-22
+MAINT-0268,MC-036,2023-11-02,Preventive,2.3,479.2,88.7,Routine calibration and cleaning,2024-01-15
+MAINT-0269,MC-036,2023-06-03,Emergency,17.6,3449.73,461.28,Emergency repair - component failure,2023-08-07
+MAINT-0270,MC-001,2024-05-24,Preventive,2.1,303.04,72.99,Emergency repair - component failure,2024-07-20
+MAINT-0271,MC-001,2024-05-26,Corrective,11.8,325.73,304.8,Replaced worn parts,2024-08-13
+MAINT-0272,MC-001,2024-09-20,Corrective,9.5,1185.51,316.23,Emergency repair - component failure,2024-10-23
+MAINT-0273,MC-001,2024-07-23,Preventive,4.8,319.82,128.32,Preventive maintenance - lubrication,2024-08-29
+MAINT-0274,MC-001,2024-06-12,Preventive,3.7,123.17,105.38,Routine calibration and cleaning,2024-08-18
+MAINT-0275,MC-001,2024-04-14,Corrective,11.1,1251.82,372.08,Routine calibration and cleaning,2024-07-04
+MAINT-0276,MC-002,2024-01-03,Preventive,3.8,213.04,112.91,Corrective action - alignment issue,2024-03-11
+MAINT-0277,MC-002,2024-04-10,Preventive,3.6,363.03,125.46,Software update and diagnostics,2024-05-14
+MAINT-0278,MC-002,2024-09-07,Preventive,4.9,242.78,189.76,Emergency repair - component failure,2024-10-21
+MAINT-0279,MC-002,2024-12-10,Emergency,20.5,2170.73,713.5,Software update and diagnostics,2025-02-11
+MAINT-0280,MC-002,2024-06-23,Preventive,2.4,238.65,74.79,Preventive maintenance - lubrication,2024-09-21
+MAINT-0281,MC-002,2024-08-09,Preventive,5.6,436.57,183.76,Corrective action - alignment issue,2024-09-27
+MAINT-0282,MC-002,2024-09-07,Preventive,4.9,415.18,125.14,Corrective action - alignment issue,2024-10-22
+MAINT-0283,MC-003,2024-11-25,Preventive,2.5,299.56,63.77,Preventive maintenance - lubrication,2025-01-11
+MAINT-0284,MC-003,2024-07-10,Corrective,4.7,634.91,160.49,Routine calibration and cleaning,2024-09-09
+MAINT-0285,MC-003,2024-07-13,Preventive,2.9,251.73,101.21,Routine calibration and cleaning,2024-09-15
+MAINT-0286,MC-003,2024-11-10,Preventive,5.1,474.89,197.12,Software update and diagnostics,2025-01-27
+MAINT-0287,MC-003,2024-05-26,Corrective,5.7,332.81,204.55,Emergency repair - component failure,2024-08-03
+MAINT-0288,MC-003,2024-07-26,Corrective,9.9,368.54,263.72,Corrective action - alignment issue,2024-09-18
+MAINT-0289,MC-003,2024-11-10,Corrective,11.5,856.2,386.27,Preventive maintenance - lubrication,2025-01-15
+MAINT-0290,MC-003,2024-05-06,Emergency,15.5,4970.45,442.89,Routine calibration and cleaning,2024-08-02
+MAINT-0291,MC-003,2024-05-26,Corrective,6.2,1498.57,226.73,Software update and diagnostics,2024-07-13
+MAINT-0292,MC-003,2024-10-13,Preventive,3.1,207.5,89.15,Preventive maintenance - lubrication,2024-12-23
+MAINT-0293,MC-003,2024-01-04,Preventive,4.6,434.4,173.48,Emergency repair - component failure,2024-03-02
+MAINT-0294,MC-004,2024-08-01,Preventive,5.9,292.08,222.22,Emergency repair - component failure,2024-09-13
+MAINT-0295,MC-004,2024-01-19,Emergency,12.4,3441.31,368.41,Emergency repair - component failure,2024-02-22
+MAINT-0296,MC-004,2024-03-09,Corrective,6.2,1342.87,166.83,Replaced worn parts,2024-05-18
+MAINT-0297,MC-004,2024-03-28,Corrective,4.4,437.34,112.54,Preventive maintenance - lubrication,2024-06-09
+MAINT-0298,MC-005,2024-10-11,Preventive,4.9,124.33,175.02,Software update and diagnostics,2024-11-26
+MAINT-0299,MC-005,2024-01-22,Corrective,10.8,948.53,277.25,Software update and diagnostics,2024-03-07
+MAINT-0300,MC-005,2024-02-03,Preventive,2.5,130.98,70.15,Software update and diagnostics,2024-04-09
+MAINT-0301,MC-005,2024-11-14,Preventive,3.7,213.23,93.87,Software update and diagnostics,2025-01-21
+MAINT-0302,MC-005,2024-06-14,Corrective,7.0,1430.98,205.88,Replaced worn parts,2024-07-15
+MAINT-0303,MC-005,2024-06-02,Preventive,2.6,336.49,69.14,Software update and diagnostics,2024-07-15
+MAINT-0304,MC-005,2024-09-23,Corrective,8.1,997.78,244.3,Emergency repair - component failure,2024-11-05
+MAINT-0305,MC-005,2024-10-02,Corrective,5.2,1215.13,180.64,Replaced worn parts,2024-11-05
+MAINT-0306,MC-005,2024-10-17,Emergency,18.1,3935.81,598.83,Preventive maintenance - lubrication,2024-11-23
+MAINT-0307,MC-005,2024-01-20,Preventive,4.1,276.41,119.05,Preventive maintenance - lubrication,2024-04-12
+MAINT-0308,MC-005,2024-05-08,Preventive,5.2,490.99,148.01,Corrective action - alignment issue,2024-06-27
+MAINT-0309,MC-006,2024-12-08,Preventive,5.8,263.97,151.93,Preventive maintenance - lubrication,2025-02-11
+MAINT-0310,MC-006,2024-02-12,Corrective,8.8,838.76,275.29,Replaced worn parts,2024-04-18
+MAINT-0311,MC-006,2024-09-08,Corrective,7.3,1001.71,197.63,Software update and diagnostics,2024-10-24
+MAINT-0312,MC-006,2024-06-11,Preventive,3.6,302.01,98.01,Corrective action - alignment issue,2024-08-11
+MAINT-0313,MC-006,2024-04-06,Corrective,4.1,444.95,118.7,Corrective action - alignment issue,2024-06-10
+MAINT-0314,MC-007,2024-12-04,Preventive,2.1,272.57,74.24,Replaced worn parts,2025-01-07
+MAINT-0315,MC-007,2024-09-28,Preventive,3.6,268.94,96.88,Preventive maintenance - lubrication,2024-12-11
+MAINT-0316,MC-007,2024-04-23,Preventive,3.3,429.89,99.16,Preventive maintenance - lubrication,2024-06-30
+MAINT-0317,MC-007,2024-02-24,Preventive,5.0,241.98,158.67,Corrective action - alignment issue,2024-04-20
+MAINT-0318,MC-007,2024-08-24,Corrective,6.3,872.53,170.22,Corrective action - alignment issue,2024-10-04
+MAINT-0319,MC-007,2024-10-27,Emergency,9.3,4582.4,315.3,Corrective action - alignment issue,2024-12-19
+MAINT-0320,MC-007,2024-11-15,Preventive,3.8,303.47,128.52,Routine calibration and cleaning,2025-02-13
+MAINT-0321,MC-007,2024-04-10,Preventive,2.2,307.07,72.33,Emergency repair - component failure,2024-06-11
+MAINT-0322,MC-007,2024-05-11,Preventive,5.0,481.41,128.15,Corrective action - alignment issue,2024-08-09
+MAINT-0323,MC-007,2024-12-07,Preventive,3.1,451.83,92.12,Software update and diagnostics,2025-01-28
+MAINT-0324,MC-007,2024-03-04,Preventive,3.9,189.45,107.41,Software update and diagnostics,2024-06-02
+MAINT-0325,MC-008,2024-04-22,Preventive,2.4,320.87,78.31,Routine calibration and cleaning,2024-06-01
+MAINT-0326,MC-008,2024-10-02,Emergency,16.6,4195.97,416.66,Routine calibration and cleaning,2024-12-24
+MAINT-0327,MC-008,2024-06-07,Preventive,5.8,270.6,183.7,Emergency repair - component failure,2024-07-15
+MAINT-0328,MC-008,2024-05-04,Corrective,11.4,443.93,437.0,Software update and diagnostics,2024-07-04
+MAINT-0329,MC-008,2024-02-28,Preventive,3.1,367.49,122.53,Routine calibration and cleaning,2024-05-19
+MAINT-0330,MC-009,2024-12-03,Preventive,4.0,210.44,137.84,Corrective action - alignment issue,2025-02-03
+MAINT-0331,MC-009,2024-02-23,Corrective,11.1,346.03,294.22,Preventive maintenance - lubrication,2024-05-08
+MAINT-0332,MC-009,2024-06-07,Corrective,9.3,1353.09,237.47,Corrective action - alignment issue,2024-08-16
+MAINT-0333,MC-009,2024-01-08,Preventive,3.5,477.26,122.85,Emergency repair - component failure,2024-02-23
+MAINT-0334,MC-009,2024-03-16,Corrective,9.9,639.12,276.99,Routine calibration and cleaning,2024-06-10
+MAINT-0335,MC-009,2024-09-28,Corrective,5.7,821.18,184.45,Replaced worn parts,2024-12-06
+MAINT-0336,MC-009,2024-12-06,Preventive,4.8,345.35,165.43,Corrective action - alignment issue,2025-01-20
+MAINT-0337,MC-010,2024-08-17,Corrective,5.4,660.12,153.78,Corrective action - alignment issue,2024-10-04
+MAINT-0338,MC-010,2024-08-16,Corrective,7.1,728.55,228.72,Replaced worn parts,2024-09-21
+MAINT-0339,MC-010,2024-02-25,Corrective,7.4,836.61,212.46,Routine calibration and cleaning,2024-04-22
+MAINT-0340,MC-010,2024-03-15,Emergency,18.6,2390.31,576.07,Emergency repair - component failure,2024-04-22
+MAINT-0341,MC-010,2024-08-20,Preventive,2.9,216.37,94.58,Emergency repair - component failure,2024-11-14
+MAINT-0342,MC-010,2024-01-18,Corrective,6.1,681.14,188.31,Emergency repair - component failure,2024-03-16
+MAINT-0343,MC-010,2024-07-09,Emergency,12.3,3912.75,370.2,Routine calibration and cleaning,2024-09-29
+MAINT-0344,MC-010,2024-05-15,Preventive,4.3,166.61,120.8,Routine calibration and cleaning,2024-07-24
+MAINT-0345,MC-010,2024-10-20,Preventive,4.4,107.97,157.67,Emergency repair - component failure,2025-01-09
+MAINT-0346,MC-011,2024-12-11,Emergency,20.3,3211.58,706.93,Replaced worn parts,2025-02-12
+MAINT-0347,MC-011,2024-06-18,Preventive,2.6,314.28,98.53,Software update and diagnostics,2024-08-01
+MAINT-0348,MC-011,2024-03-12,Preventive,2.9,393.33,113.39,Routine calibration and cleaning,2024-04-13
+MAINT-0349,MC-011,2024-09-04,Preventive,5.2,116.91,152.08,Replaced worn parts,2024-10-05
+MAINT-0350,MC-011,2024-11-25,Corrective,4.3,1199.9,159.94,Corrective action - alignment issue,2025-01-18
+MAINT-0351,MC-012,2024-03-27,Corrective,6.2,401.9,161.87,Corrective action - alignment issue,2024-06-11
+MAINT-0352,MC-012,2024-12-14,Preventive,5.0,316.68,193.92,Corrective action - alignment issue,2025-01-19
+MAINT-0353,MC-012,2024-10-26,Preventive,5.3,443.72,194.89,Preventive maintenance - lubrication,2024-12-22
+MAINT-0354,MC-012,2024-12-01,Preventive,3.8,139.87,150.25,Emergency repair - component failure,2025-02-05
+MAINT-0355,MC-012,2024-07-10,Preventive,2.9,262.53,84.62,Corrective action - alignment issue,2024-08-27
+MAINT-0356,MC-012,2024-09-17,Preventive,2.1,298.81,64.9,Preventive maintenance - lubrication,2024-11-09
+MAINT-0357,MC-012,2024-12-04,Preventive,4.3,109.96,157.24,Software update and diagnostics,2025-01-31
+MAINT-0358,MC-012,2024-08-19,Preventive,3.2,157.51,110.24,Routine calibration and cleaning,2024-09-23
+MAINT-0359,MC-012,2024-09-06,Preventive,5.8,337.36,152.3,Preventive maintenance - lubrication,2024-10-31
+MAINT-0360,MC-012,2024-08-17,Corrective,8.5,578.92,310.34,Emergency repair - component failure,2024-10-02
+MAINT-0361,MC-013,2024-12-11,Corrective,4.3,1126.8,146.12,Routine calibration and cleaning,2025-03-06
+MAINT-0362,MC-013,2024-05-23,Preventive,4.2,295.49,136.49,Replaced worn parts,2024-08-02
+MAINT-0363,MC-013,2024-06-15,Corrective,8.1,1330.38,323.12,Routine calibration and cleaning,2024-07-20
+MAINT-0364,MC-013,2024-07-23,Preventive,2.5,105.45,82.0,Replaced worn parts,2024-08-29
+MAINT-0365,MC-013,2024-04-15,Corrective,4.9,1362.6,158.9,Preventive maintenance - lubrication,2024-06-24
+MAINT-0366,MC-013,2024-08-05,Corrective,8.4,779.29,247.39,Software update and diagnostics,2024-10-01
+MAINT-0367,MC-013,2024-12-22,Preventive,3.3,455.82,110.41,Replaced worn parts,2025-01-31
+MAINT-0368,MC-013,2024-05-17,Corrective,10.4,1442.39,317.92,Software update and diagnostics,2024-07-24
+MAINT-0369,MC-014,2024-08-07,Emergency,22.8,3880.52,861.52,Replaced worn parts,2024-09-14
+MAINT-0370,MC-014,2024-09-23,Corrective,4.1,799.56,111.75,Routine calibration and cleaning,2024-10-27
+MAINT-0371,MC-014,2024-05-23,Preventive,4.8,315.09,143.83,Preventive maintenance - lubrication,2024-06-25
+MAINT-0372,MC-014,2024-08-20,Preventive,3.4,323.66,96.53,Routine calibration and cleaning,2024-10-29
+MAINT-0373,MC-014,2024-04-09,Preventive,5.6,270.47,201.26,Preventive maintenance - lubrication,2024-06-01
+MAINT-0374,MC-014,2024-07-09,Preventive,4.6,181.04,155.89,Corrective action - alignment issue,2024-08-14
+MAINT-0375,MC-014,2024-04-09,Preventive,4.3,150.68,141.19,Emergency repair - component failure,2024-06-19
+MAINT-0376,MC-014,2024-06-19,Corrective,8.7,632.69,322.85,Preventive maintenance - lubrication,2024-09-12
+MAINT-0377,MC-014,2024-11-16,Preventive,2.0,192.73,56.49,Preventive maintenance - lubrication,2025-02-13
+MAINT-0378,MC-014,2024-03-05,Preventive,5.5,229.34,211.42,Replaced worn parts,2024-04-07
+MAINT-0379,MC-014,2024-09-26,Preventive,4.7,230.84,152.78,Replaced worn parts,2024-11-02
+MAINT-0380,MC-015,2024-07-13,Corrective,9.6,725.99,360.77,Preventive maintenance - lubrication,2024-09-01
+MAINT-0381,MC-015,2024-02-20,Corrective,11.6,1434.59,435.05,Replaced worn parts,2024-05-05
+MAINT-0382,MC-015,2024-07-18,Preventive,4.8,200.22,128.66,Emergency repair - component failure,2024-10-13
+MAINT-0383,MC-015,2024-11-12,Preventive,5.5,442.15,201.09,Corrective action - alignment issue,2025-01-03
+MAINT-0384,MC-015,2024-07-07,Corrective,11.0,1404.73,306.51,Replaced worn parts,2024-08-29
+MAINT-0385,MC-015,2024-12-01,Preventive,3.4,177.96,114.9,Routine calibration and cleaning,2025-01-21
+MAINT-0386,MC-015,2024-06-09,Preventive,2.1,209.21,72.89,Emergency repair - component failure,2024-08-19
+MAINT-0387,MC-015,2024-07-02,Emergency,19.3,2096.7,499.07,Routine calibration and cleaning,2024-09-06
+MAINT-0388,MC-015,2024-12-16,Emergency,18.1,2961.2,581.04,Corrective action - alignment issue,2025-03-11
+MAINT-0389,MC-015,2024-09-26,Preventive,3.5,345.17,124.95,Corrective action - alignment issue,2024-12-10
+MAINT-0390,MC-015,2024-03-28,Corrective,4.7,1300.88,125.92,Corrective action - alignment issue,2024-05-25
+MAINT-0391,MC-015,2024-12-02,Preventive,5.4,210.99,204.06,Preventive maintenance - lubrication,2025-02-11
+MAINT-0392,MC-016,2024-06-27,Corrective,11.2,1377.28,308.43,Corrective action - alignment issue,2024-09-02
+MAINT-0393,MC-016,2024-06-17,Preventive,4.7,266.55,164.57,Routine calibration and cleaning,2024-07-20
+MAINT-0394,MC-016,2024-04-27,Corrective,5.2,619.96,143.46,Software update and diagnostics,2024-05-29
+MAINT-0395,MC-016,2024-10-07,Corrective,7.3,1062.36,274.71,Routine calibration and cleaning,2025-01-05
+MAINT-0396,MC-017,2024-05-18,Preventive,3.4,327.27,120.51,Emergency repair - component failure,2024-07-23
+MAINT-0397,MC-017,2024-02-04,Emergency,10.9,1345.67,324.41,Routine calibration and cleaning,2024-04-14
+MAINT-0398,MC-017,2024-03-26,Preventive,4.6,284.14,175.53,Replaced worn parts,2024-06-24
+MAINT-0399,MC-017,2024-05-27,Corrective,11.5,1337.5,416.43,Replaced worn parts,2024-08-12
+MAINT-0400,MC-017,2024-05-02,Preventive,3.1,211.59,103.77,Replaced worn parts,2024-06-27
+MAINT-0401,MC-017,2024-04-09,Corrective,5.4,653.92,191.5,Routine calibration and cleaning,2024-05-25
+MAINT-0402,MC-017,2024-08-12,Preventive,3.4,356.73,107.93,Corrective action - alignment issue,2024-10-21
+MAINT-0403,MC-017,2024-03-02,Emergency,17.4,1622.82,583.43,Emergency repair - component failure,2024-05-15
+MAINT-0404,MC-018,2024-11-26,Corrective,6.3,710.62,249.02,Corrective action - alignment issue,2025-01-30
+MAINT-0405,MC-018,2024-05-03,Preventive,2.8,187.3,80.96,Routine calibration and cleaning,2024-07-31
+MAINT-0406,MC-018,2024-09-22,Corrective,7.8,860.7,232.79,Emergency repair - component failure,2024-11-27
+MAINT-0407,MC-018,2024-11-19,Emergency,13.2,1418.45,401.06,Routine calibration and cleaning,2025-02-14
+MAINT-0408,MC-018,2024-03-14,Preventive,3.3,461.19,91.76,Software update and diagnostics,2024-05-05
+MAINT-0409,MC-018,2024-03-15,Preventive,5.0,275.6,171.25,Preventive maintenance - lubrication,2024-05-21
+MAINT-0410,MC-018,2024-12-14,Corrective,7.8,592.31,279.63,Software update and diagnostics,2025-02-20
+MAINT-0411,MC-018,2024-08-22,Preventive,2.2,471.6,62.73,Preventive maintenance - lubrication,2024-11-19
+MAINT-0412,MC-018,2024-02-14,Preventive,3.1,331.0,105.08,Preventive maintenance - lubrication,2024-03-25
+MAINT-0413,MC-019,2024-05-20,Emergency,23.1,1793.85,914.45,Replaced worn parts,2024-08-06
+MAINT-0414,MC-019,2024-03-22,Preventive,5.8,488.13,171.91,Replaced worn parts,2024-06-09
+MAINT-0415,MC-019,2024-06-15,Preventive,3.8,363.44,106.42,Software update and diagnostics,2024-07-26
+MAINT-0416,MC-019,2024-05-03,Preventive,5.4,274.62,193.65,Corrective action - alignment issue,2024-06-11
+MAINT-0417,MC-019,2024-09-28,Corrective,4.0,491.2,105.99,Corrective action - alignment issue,2024-12-02
+MAINT-0418,MC-019,2024-07-23,Preventive,3.9,250.52,124.61,Routine calibration and cleaning,2024-09-06
+MAINT-0419,MC-020,2024-03-11,Corrective,5.1,1227.91,196.2,Corrective action - alignment issue,2024-06-01
+MAINT-0420,MC-020,2024-12-28,Preventive,3.6,128.66,116.37,Preventive maintenance - lubrication,2025-03-15
+MAINT-0421,MC-020,2024-01-08,Corrective,5.4,582.19,164.34,Routine calibration and cleaning,2024-03-10
+MAINT-0422,MC-020,2024-10-20,Corrective,11.3,1074.69,305.9,Routine calibration and cleaning,2024-12-01
+MAINT-0423,MC-020,2024-04-10,Preventive,3.4,361.62,106.71,Software update and diagnostics,2024-05-28
+MAINT-0424,MC-020,2024-07-22,Corrective,4.3,1450.22,134.7,Emergency repair - component failure,2024-08-31
+MAINT-0425,MC-020,2024-11-17,Corrective,7.7,399.17,271.74,Corrective action - alignment issue,2024-12-23
+MAINT-0426,MC-020,2024-07-26,Corrective,5.3,454.49,172.8,Emergency repair - component failure,2024-10-07
+MAINT-0427,MC-020,2024-01-16,Corrective,9.4,806.95,242.69,Software update and diagnostics,2024-03-13
+MAINT-0428,MC-020,2024-12-21,Preventive,5.2,463.28,169.16,Emergency repair - component failure,2025-03-10
+MAINT-0429,MC-021,2024-09-12,Preventive,2.7,269.63,98.26,Corrective action - alignment issue,2024-12-06
+MAINT-0430,MC-021,2024-02-05,Preventive,5.8,383.03,167.43,Preventive maintenance - lubrication,2024-04-07
+MAINT-0431,MC-021,2024-12-28,Preventive,2.2,212.69,59.01,Emergency repair - component failure,2025-02-27
+MAINT-0432,MC-021,2024-06-02,Corrective,9.5,602.79,285.59,Routine calibration and cleaning,2024-07-20
+MAINT-0433,MC-021,2024-09-09,Preventive,3.4,107.01,101.56,Routine calibration and cleaning,2024-11-18
+MAINT-0434,MC-021,2024-10-04,Preventive,2.1,395.47,60.33,Preventive maintenance - lubrication,2024-11-08
+MAINT-0435,MC-021,2024-02-05,Corrective,9.1,817.32,265.0,Corrective action - alignment issue,2024-04-04
+MAINT-0436,MC-021,2024-10-08,Emergency,22.5,4729.07,839.41,Emergency repair - component failure,2024-12-13
+MAINT-0437,MC-021,2024-01-03,Preventive,2.2,343.74,78.89,Routine calibration and cleaning,2024-03-24
+MAINT-0438,MC-022,2024-09-24,Preventive,5.7,399.71,178.63,Replaced worn parts,2024-10-25
+MAINT-0439,MC-022,2024-12-09,Corrective,9.9,395.14,382.98,Replaced worn parts,2025-01-15
+MAINT-0440,MC-022,2024-10-09,Emergency,17.8,3156.63,656.92,Routine calibration and cleaning,2024-12-22
+MAINT-0441,MC-022,2024-06-19,Preventive,5.0,274.78,181.02,Replaced worn parts,2024-09-06
+MAINT-0442,MC-022,2024-05-17,Corrective,8.8,1391.7,309.52,Routine calibration and cleaning,2024-07-03
+MAINT-0443,MC-022,2024-07-07,Preventive,3.7,151.91,107.32,Corrective action - alignment issue,2024-09-13
+MAINT-0444,MC-022,2024-06-04,Preventive,2.1,229.84,54.51,Corrective action - alignment issue,2024-07-22
+MAINT-0445,MC-022,2024-12-20,Corrective,8.7,1061.73,260.4,Emergency repair - component failure,2025-02-12
+MAINT-0446,MC-022,2024-09-01,Preventive,3.3,429.05,90.01,Corrective action - alignment issue,2024-11-24
+MAINT-0447,MC-022,2024-08-07,Preventive,2.7,256.02,83.82,Preventive maintenance - lubrication,2024-10-18
+MAINT-0448,MC-023,2024-11-16,Preventive,3.4,183.02,135.23,Software update and diagnostics,2025-01-08
+MAINT-0449,MC-023,2024-05-25,Preventive,4.7,111.83,161.55,Preventive maintenance - lubrication,2024-07-04
+MAINT-0450,MC-023,2024-06-19,Preventive,6.0,109.36,237.6,Corrective action - alignment issue,2024-08-23
+MAINT-0451,MC-023,2024-08-08,Preventive,4.2,251.37,164.78,Routine calibration and cleaning,2024-09-14
+MAINT-0452,MC-023,2024-07-07,Preventive,2.4,215.74,91.14,Corrective action - alignment issue,2024-09-24
+MAINT-0453,MC-024,2024-09-14,Preventive,2.9,460.18,84.63,Software update and diagnostics,2024-12-02
+MAINT-0454,MC-024,2024-11-04,Corrective,9.5,1059.75,328.16,Preventive maintenance - lubrication,2025-01-05
+MAINT-0455,MC-024,2024-09-13,Preventive,3.6,402.73,105.46,Emergency repair - component failure,2024-12-11
+MAINT-0456,MC-024,2024-03-28,Preventive,3.2,313.07,96.03,Corrective action - alignment issue,2024-05-26
+MAINT-0457,MC-024,2024-03-22,Emergency,14.1,3612.42,558.55,Replaced worn parts,2024-05-17
+MAINT-0458,MC-024,2024-11-01,Corrective,5.1,1043.9,203.92,Preventive maintenance - lubrication,2025-01-08
+MAINT-0459,MC-024,2024-12-14,Emergency,13.2,1999.76,442.72,Corrective action - alignment issue,2025-02-12
+MAINT-0460,MC-024,2024-02-12,Preventive,4.4,415.95,135.7,Replaced worn parts,2024-04-14
+MAINT-0461,MC-024,2024-03-15,Preventive,5.5,170.08,214.81,Replaced worn parts,2024-06-11
+MAINT-0462,MC-024,2024-06-05,Preventive,5.6,182.8,178.74,Corrective action - alignment issue,2024-07-20
+MAINT-0463,MC-025,2024-04-26,Preventive,3.8,356.55,140.81,Software update and diagnostics,2024-07-18
+MAINT-0464,MC-025,2024-03-08,Preventive,5.8,102.75,147.81,Emergency repair - component failure,2024-05-20
+MAINT-0465,MC-025,2024-09-16,Corrective,4.6,800.51,132.94,Preventive maintenance - lubrication,2024-11-30
+MAINT-0466,MC-025,2024-02-23,Corrective,9.2,941.0,233.27,Corrective action - alignment issue,2024-04-23
+MAINT-0467,MC-025,2024-01-10,Corrective,10.6,1170.18,271.35,Corrective action - alignment issue,2024-03-05
+MAINT-0468,MC-025,2024-09-21,Corrective,7.4,448.87,201.2,Preventive maintenance - lubrication,2024-11-06
+MAINT-0469,MC-025,2024-02-24,Preventive,3.7,235.93,143.17,Emergency repair - component failure,2024-05-14
+MAINT-0470,MC-025,2024-04-09,Preventive,4.6,129.63,177.04,Replaced worn parts,2024-06-09
+MAINT-0471,MC-025,2024-05-11,Preventive,3.8,414.95,134.88,Software update and diagnostics,2024-07-16
+MAINT-0472,MC-025,2024-10-02,Corrective,5.2,646.12,147.24,Preventive maintenance - lubrication,2024-11-24
+MAINT-0473,MC-025,2024-06-23,Preventive,5.8,163.32,200.15,Corrective action - alignment issue,2024-08-22
+MAINT-0474,MC-026,2024-11-10,Preventive,5.2,151.42,177.38,Emergency repair - component failure,2025-02-02
+MAINT-0475,MC-026,2024-05-21,Preventive,5.4,333.29,147.02,Software update and diagnostics,2024-06-20
+MAINT-0476,MC-026,2024-06-24,Preventive,5.5,306.73,176.85,Replaced worn parts,2024-09-19
+MAINT-0477,MC-026,2024-06-21,Preventive,5.4,225.72,165.32,Emergency repair - component failure,2024-09-14
+MAINT-0478,MC-026,2024-11-06,Corrective,7.9,880.8,242.51,Routine calibration and cleaning,2025-01-17
+MAINT-0479,MC-026,2024-06-08,Preventive,2.9,211.33,106.34,Routine calibration and cleaning,2024-08-27
+MAINT-0480,MC-026,2024-11-07,Preventive,3.8,465.08,146.66,Corrective action - alignment issue,2025-01-29
+MAINT-0481,MC-026,2024-09-08,Corrective,6.9,339.41,237.33,Software update and diagnostics,2024-12-07
+MAINT-0482,MC-026,2024-09-03,Preventive,5.8,438.64,191.78,Routine calibration and cleaning,2024-10-08
+MAINT-0483,MC-026,2024-08-19,Preventive,3.0,418.91,83.22,Corrective action - alignment issue,2024-11-16
+MAINT-0484,MC-026,2024-04-08,Corrective,7.6,348.28,259.44,Software update and diagnostics,2024-06-12
+MAINT-0485,MC-027,2024-12-07,Corrective,11.3,1387.37,304.97,Routine calibration and cleaning,2025-01-25
+MAINT-0486,MC-027,2024-04-08,Preventive,5.0,290.91,132.37,Routine calibration and cleaning,2024-07-03
+MAINT-0487,MC-027,2024-06-26,Corrective,5.6,439.69,147.0,Routine calibration and cleaning,2024-08-07
+MAINT-0488,MC-027,2024-09-19,Preventive,3.9,327.73,131.53,Routine calibration and cleaning,2024-12-13
+MAINT-0489,MC-027,2024-12-15,Corrective,5.6,1266.92,191.61,Routine calibration and cleaning,2025-02-12
+MAINT-0490,MC-028,2024-07-20,Preventive,4.5,231.46,145.12,Corrective action - alignment issue,2024-09-06
+MAINT-0491,MC-028,2024-05-09,Corrective,6.0,630.35,200.51,Corrective action - alignment issue,2024-06-27
+MAINT-0492,MC-028,2024-08-04,Emergency,23.1,2950.32,688.11,Emergency repair - component failure,2024-10-05
+MAINT-0493,MC-028,2024-08-06,Preventive,5.0,369.19,132.09,Emergency repair - component failure,2024-10-30
+MAINT-0494,MC-028,2024-06-21,Corrective,10.6,532.31,282.29,Replaced worn parts,2024-08-04
+MAINT-0495,MC-028,2024-05-17,Preventive,5.1,288.75,179.88,Preventive maintenance - lubrication,2024-08-14
+MAINT-0496,MC-028,2024-04-19,Corrective,6.6,530.28,204.23,Replaced worn parts,2024-05-29
+MAINT-0497,MC-028,2024-10-22,Preventive,5.8,492.46,201.85,Emergency repair - component failure,2025-01-10
+MAINT-0498,MC-029,2024-04-09,Preventive,5.4,221.45,146.74,Corrective action - alignment issue,2024-05-30
+MAINT-0499,MC-029,2024-06-27,Corrective,7.6,810.36,234.86,Routine calibration and cleaning,2024-08-22
+MAINT-0500,MC-029,2024-07-02,Emergency,13.7,4221.48,542.86,Software update and diagnostics,2024-09-19
+MAINT-0501,MC-029,2024-01-27,Corrective,5.7,1160.01,167.71,Routine calibration and cleaning,2024-03-20
+MAINT-0502,MC-029,2024-06-14,Corrective,6.6,971.97,184.75,Preventive maintenance - lubrication,2024-07-27
+MAINT-0503,MC-029,2024-09-15,Corrective,4.9,591.77,146.42,Corrective action - alignment issue,2024-11-14
+MAINT-0504,MC-029,2024-10-16,Emergency,23.1,4124.91,712.66,Corrective action - alignment issue,2025-01-12
+MAINT-0505,MC-029,2024-08-08,Preventive,4.4,250.01,116.7,Software update and diagnostics,2024-10-17
+MAINT-0506,MC-030,2024-09-12,Preventive,3.1,288.74,118.46,Software update and diagnostics,2024-10-16
+MAINT-0507,MC-030,2024-12-14,Corrective,11.0,1007.77,369.72,Routine calibration and cleaning,2025-02-17
+MAINT-0508,MC-030,2024-08-08,Preventive,4.2,364.28,140.07,Software update and diagnostics,2024-10-29
+MAINT-0509,MC-030,2024-12-01,Preventive,5.1,448.29,180.99,Software update and diagnostics,2025-02-16
+MAINT-0510,MC-030,2024-06-25,Preventive,5.5,173.66,176.14,Software update and diagnostics,2024-08-23
+MAINT-0511,MC-030,2024-06-07,Corrective,9.6,606.43,347.66,Replaced worn parts,2024-07-08
+MAINT-0512,MC-030,2024-02-21,Preventive,3.6,294.54,92.59,Routine calibration and cleaning,2024-04-24
+MAINT-0513,MC-030,2024-09-12,Preventive,3.7,112.83,120.48,Software update and diagnostics,2024-12-02
+MAINT-0514,MC-031,2024-08-10,Preventive,4.5,393.77,150.66,Routine calibration and cleaning,2024-10-14
+MAINT-0515,MC-031,2024-09-06,Corrective,10.8,405.28,419.44,Corrective action - alignment issue,2024-11-14
+MAINT-0516,MC-031,2024-04-25,Preventive,4.7,427.1,150.33,Corrective action - alignment issue,2024-07-20
+MAINT-0517,MC-031,2024-03-21,Preventive,2.7,330.09,85.89,Corrective action - alignment issue,2024-06-08
+MAINT-0518,MC-031,2024-12-27,Emergency,22.2,2605.86,652.84,Emergency repair - component failure,2025-03-06
+MAINT-0519,MC-031,2024-01-01,Preventive,3.7,203.54,104.87,Software update and diagnostics,2024-03-14
+MAINT-0520,MC-031,2024-09-15,Corrective,5.6,1285.83,217.73,Corrective action - alignment issue,2024-12-11
+MAINT-0521,MC-031,2024-10-05,Preventive,2.6,223.39,68.93,Preventive maintenance - lubrication,2024-12-08
+MAINT-0522,MC-031,2024-01-25,Preventive,3.4,127.71,129.4,Replaced worn parts,2024-04-23
+MAINT-0523,MC-031,2024-11-07,Preventive,2.7,496.4,76.94,Replaced worn parts,2025-02-03
+MAINT-0524,MC-031,2024-06-01,Preventive,5.6,275.86,210.07,Routine calibration and cleaning,2024-07-25
+MAINT-0525,MC-031,2024-08-28,Corrective,9.9,756.5,313.85,Replaced worn parts,2024-10-22
+MAINT-0526,MC-032,2024-07-19,Corrective,4.7,510.12,181.89,Preventive maintenance - lubrication,2024-10-03
+MAINT-0527,MC-032,2024-02-06,Corrective,5.0,886.93,170.36,Software update and diagnostics,2024-04-23
+MAINT-0528,MC-032,2024-07-07,Preventive,2.4,302.76,77.21,Routine calibration and cleaning,2024-09-07
+MAINT-0529,MC-032,2024-08-01,Preventive,5.2,260.12,196.88,Software update and diagnostics,2024-09-22
+MAINT-0530,MC-032,2024-05-27,Preventive,5.8,360.8,164.95,Routine calibration and cleaning,2024-08-09
+MAINT-0531,MC-032,2024-11-21,Corrective,11.0,319.02,434.1,Corrective action - alignment issue,2025-02-05
+MAINT-0532,MC-032,2024-06-02,Preventive,3.0,325.83,80.76,Replaced worn parts,2024-07-11
+MAINT-0533,MC-033,2024-01-02,Preventive,2.8,395.94,82.31,Emergency repair - component failure,2024-03-11
+MAINT-0534,MC-033,2024-03-14,Preventive,5.7,486.12,205.94,Corrective action - alignment issue,2024-06-03
+MAINT-0535,MC-033,2024-03-12,Corrective,4.9,494.85,159.07,Emergency repair - component failure,2024-04-30
+MAINT-0536,MC-033,2024-11-12,Emergency,12.2,2284.29,448.34,Routine calibration and cleaning,2025-01-02
+MAINT-0537,MC-033,2024-08-02,Corrective,5.2,789.19,172.08,Preventive maintenance - lubrication,2024-10-19
+MAINT-0538,MC-033,2024-12-17,Preventive,2.4,239.47,68.02,Routine calibration and cleaning,2025-02-11
+MAINT-0539,MC-033,2024-02-16,Preventive,3.7,459.26,116.94,Preventive maintenance - lubrication,2024-05-10
+MAINT-0540,MC-033,2024-11-01,Preventive,3.9,461.15,105.0,Preventive maintenance - lubrication,2025-01-12
+MAINT-0541,MC-033,2024-06-20,Corrective,4.8,891.36,179.84,Replaced worn parts,2024-08-25
+MAINT-0542,MC-033,2024-03-08,Preventive,5.2,157.04,181.42,Routine calibration and cleaning,2024-05-24
+MAINT-0543,MC-033,2024-12-13,Preventive,4.5,199.91,129.42,Corrective action - alignment issue,2025-02-27
+MAINT-0544,MC-034,2024-06-23,Emergency,18.7,3079.67,629.4,Software update and diagnostics,2024-09-17
+MAINT-0545,MC-034,2024-03-11,Preventive,4.6,331.75,179.49,Corrective action - alignment issue,2024-04-12
+MAINT-0546,MC-034,2024-07-21,Preventive,2.8,172.87,76.0,Replaced worn parts,2024-08-22
+MAINT-0547,MC-034,2024-03-13,Preventive,4.3,293.54,129.68,Preventive maintenance - lubrication,2024-05-22
+MAINT-0548,MC-034,2024-07-15,Emergency,15.3,2051.22,483.45,Software update and diagnostics,2024-09-30
+MAINT-0549,MC-034,2024-11-25,Preventive,3.3,498.67,91.72,Emergency repair - component failure,2025-01-15
+MAINT-0550,MC-034,2024-09-15,Corrective,9.3,710.85,304.91,Software update and diagnostics,2024-10-19
+MAINT-0551,MC-034,2024-07-21,Preventive,4.2,137.83,166.43,Routine calibration and cleaning,2024-10-12
+MAINT-0552,MC-035,2024-09-23,Preventive,5.5,222.81,173.48,Routine calibration and cleaning,2024-12-22
+MAINT-0553,MC-035,2024-09-06,Preventive,5.8,499.42,161.95,Corrective action - alignment issue,2024-11-28
+MAINT-0554,MC-035,2024-04-25,Preventive,4.9,241.57,166.67,Preventive maintenance - lubrication,2024-06-03
+MAINT-0555,MC-035,2024-09-17,Preventive,4.1,315.78,145.16,Replaced worn parts,2024-11-19
+MAINT-0556,MC-035,2024-06-06,Preventive,2.7,353.73,92.54,Corrective action - alignment issue,2024-08-28
+MAINT-0557,MC-036,2024-09-20,Preventive,2.8,119.56,110.7,Software update and diagnostics,2024-11-14
+MAINT-0558,MC-036,2024-07-17,Emergency,22.3,2872.02,603.03,Software update and diagnostics,2024-10-15
+MAINT-0559,MC-036,2024-01-03,Preventive,4.2,224.64,163.15,Preventive maintenance - lubrication,2024-03-12
+MAINT-0560,MC-036,2024-02-02,Corrective,5.1,877.12,139.76,Replaced worn parts,2024-04-23
+MAINT-0561,MC-036,2024-07-26,Preventive,3.7,336.57,106.3,Routine calibration and cleaning,2024-09-16
+MAINT-0562,MC-036,2024-04-09,Preventive,3.6,390.39,121.64,Replaced worn parts,2024-06-21
+MAINT-0563,MC-001,2025-08-05,Corrective,10.1,312.92,270.27,Preventive maintenance - lubrication,2025-09-23
+MAINT-0564,MC-001,2025-02-25,Corrective,7.8,1092.51,229.96,Preventive maintenance - lubrication,2025-04-03
+MAINT-0565,MC-001,2025-12-20,Preventive,2.3,491.6,88.91,Software update and diagnostics,2026-02-09
+MAINT-0566,MC-001,2025-01-13,Corrective,6.0,1052.28,188.33,Corrective action - alignment issue,2025-02-22
+MAINT-0567,MC-001,2025-12-28,Corrective,10.1,569.56,268.11,Preventive maintenance - lubrication,2026-03-14
+MAINT-0568,MC-001,2025-10-28,Preventive,5.5,365.96,206.53,Emergency repair - component failure,2025-12-24
+MAINT-0569,MC-001,2025-01-21,Preventive,5.1,436.93,183.53,Software update and diagnostics,2025-04-18
+MAINT-0570,MC-002,2025-06-14,Corrective,6.0,727.99,151.16,Emergency repair - component failure,2025-08-28
+MAINT-0571,MC-002,2025-04-19,Preventive,4.4,366.25,116.86,Corrective action - alignment issue,2025-07-07
+MAINT-0572,MC-002,2025-08-18,Corrective,8.5,1027.95,323.48,Emergency repair - component failure,2025-10-29
+MAINT-0573,MC-002,2025-01-20,Preventive,5.4,357.07,142.98,Routine calibration and cleaning,2025-02-25
+MAINT-0574,MC-002,2025-04-12,Preventive,4.8,341.52,178.7,Corrective action - alignment issue,2025-06-26
+MAINT-0575,MC-002,2025-01-12,Corrective,7.5,852.89,284.63,Emergency repair - component failure,2025-02-13
+MAINT-0576,MC-002,2025-11-24,Corrective,9.4,330.77,314.94,Corrective action - alignment issue,2025-12-25
+MAINT-0577,MC-002,2025-06-04,Preventive,3.6,111.35,114.66,Software update and diagnostics,2025-08-30
+MAINT-0578,MC-002,2025-06-27,Corrective,6.8,1458.71,198.22,Routine calibration and cleaning,2025-09-15
+MAINT-0579,MC-002,2025-06-15,Corrective,9.1,1222.33,249.42,Preventive maintenance - lubrication,2025-08-19
+MAINT-0580,MC-002,2025-11-11,Corrective,10.0,1237.16,275.81,Routine calibration and cleaning,2026-01-11
+MAINT-0581,MC-002,2025-06-12,Corrective,9.9,1303.48,281.29,Software update and diagnostics,2025-09-03
+MAINT-0582,MC-003,2025-12-03,Corrective,6.5,896.63,180.65,Replaced worn parts,2026-01-26
+MAINT-0583,MC-003,2025-05-28,Corrective,6.8,1267.08,261.37,Replaced worn parts,2025-08-14
+MAINT-0584,MC-003,2025-03-11,Preventive,2.8,224.21,91.26,Preventive maintenance - lubrication,2025-05-21
+MAINT-0585,MC-003,2025-05-25,Preventive,2.7,347.39,70.58,Routine calibration and cleaning,2025-06-29
+MAINT-0586,MC-003,2025-12-20,Emergency,18.6,4408.84,505.67,Preventive maintenance - lubrication,2026-02-09
+MAINT-0587,MC-004,2025-07-05,Emergency,9.7,4824.3,361.02,Software update and diagnostics,2025-09-29
+MAINT-0588,MC-004,2025-10-19,Emergency,13.2,1899.3,493.57,Preventive maintenance - lubrication,2025-12-03
+MAINT-0589,MC-004,2025-03-22,Emergency,8.4,1897.87,297.58,Replaced worn parts,2025-05-05
+MAINT-0590,MC-004,2025-04-15,Corrective,5.7,314.9,163.33,Preventive maintenance - lubrication,2025-05-16
+MAINT-0591,MC-004,2025-08-27,Preventive,4.2,499.35,117.11,Preventive maintenance - lubrication,2025-10-07
+MAINT-0592,MC-004,2025-10-13,Corrective,11.1,1474.96,401.84,Software update and diagnostics,2025-12-27
+MAINT-0593,MC-004,2025-05-14,Preventive,5.6,474.77,166.89,Routine calibration and cleaning,2025-07-05
+MAINT-0594,MC-004,2025-12-05,Preventive,5.3,380.97,195.75,Replaced worn parts,2026-02-10
+MAINT-0595,MC-004,2025-02-26,Emergency,19.3,3141.44,512.84,Preventive maintenance - lubrication,2025-05-19
+MAINT-0596,MC-005,2025-12-12,Corrective,9.2,964.89,365.94,Software update and diagnostics,2026-02-09
+MAINT-0597,MC-005,2025-10-27,Preventive,4.5,298.85,141.94,Routine calibration and cleaning,2025-12-06
+MAINT-0598,MC-005,2025-09-15,Preventive,2.2,239.04,83.63,Routine calibration and cleaning,2025-10-24
+MAINT-0599,MC-005,2025-11-12,Preventive,4.9,327.9,192.13,Routine calibration and cleaning,2026-01-27
+MAINT-0600,MC-005,2025-12-20,Preventive,4.8,477.1,191.01,Corrective action - alignment issue,2026-02-01
+MAINT-0601,MC-005,2025-08-10,Preventive,4.7,232.21,157.67,Preventive maintenance - lubrication,2025-11-04
+MAINT-0602,MC-005,2025-07-05,Corrective,11.8,1004.25,447.7,Routine calibration and cleaning,2025-09-12
+MAINT-0603,MC-006,2025-10-04,Corrective,4.6,376.35,143.55,Corrective action - alignment issue,2025-11-13
+MAINT-0604,MC-006,2025-04-08,Emergency,20.4,4958.36,765.74,Corrective action - alignment issue,2025-05-09
+MAINT-0605,MC-006,2025-08-24,Preventive,2.4,478.46,80.66,Corrective action - alignment issue,2025-11-22
+MAINT-0606,MC-006,2025-07-26,Preventive,4.8,155.4,144.72,Software update and diagnostics,2025-08-31
+MAINT-0607,MC-006,2025-06-06,Corrective,11.0,899.62,305.45,Replaced worn parts,2025-07-31
+MAINT-0608,MC-006,2025-04-12,Emergency,18.1,2358.88,656.62,Software update and diagnostics,2025-06-14
+MAINT-0609,MC-006,2025-01-20,Preventive,4.2,373.08,111.02,Preventive maintenance - lubrication,2025-02-19
+MAINT-0610,MC-006,2025-01-01,Preventive,3.2,420.02,107.27,Routine calibration and cleaning,2025-02-23
+MAINT-0611,MC-006,2025-03-07,Corrective,8.0,942.26,317.09,Corrective action - alignment issue,2025-04-12
+MAINT-0612,MC-007,2025-10-12,Preventive,5.6,382.55,213.89,Preventive maintenance - lubrication,2025-11-22
+MAINT-0613,MC-007,2025-03-27,Corrective,4.2,346.53,138.87,Routine calibration and cleaning,2025-06-15
+MAINT-0614,MC-007,2025-05-10,Preventive,4.7,336.04,129.3,Emergency repair - component failure,2025-06-15
+MAINT-0615,MC-007,2025-04-20,Preventive,4.5,234.96,143.19,Preventive maintenance - lubrication,2025-07-01
+MAINT-0616,MC-007,2025-07-26,Preventive,2.5,321.78,75.19,Replaced worn parts,2025-09-17
+MAINT-0617,MC-007,2025-04-27,Preventive,5.2,116.64,134.57,Emergency repair - component failure,2025-07-24
+MAINT-0618,MC-008,2025-09-03,Corrective,6.6,932.8,221.93,Preventive maintenance - lubrication,2025-11-06
+MAINT-0619,MC-008,2025-07-25,Preventive,2.8,228.13,88.81,Software update and diagnostics,2025-09-05
+MAINT-0620,MC-008,2025-11-14,Preventive,3.5,296.19,113.29,Preventive maintenance - lubrication,2026-01-03
+MAINT-0621,MC-008,2025-08-20,Preventive,4.0,414.54,117.23,Corrective action - alignment issue,2025-11-01
+MAINT-0622,MC-008,2025-01-17,Corrective,5.5,407.02,211.1,Preventive maintenance - lubrication,2025-04-04
+MAINT-0623,MC-009,2025-03-21,Preventive,2.2,111.19,86.9,Replaced worn parts,2025-05-14
+MAINT-0624,MC-009,2025-06-18,Preventive,5.3,449.48,191.21,Replaced worn parts,2025-08-20
+MAINT-0625,MC-009,2025-09-12,Corrective,4.4,557.39,140.18,Replaced worn parts,2025-10-23
+MAINT-0626,MC-009,2025-12-11,Preventive,2.8,182.69,96.9,Routine calibration and cleaning,2026-01-10
+MAINT-0627,MC-009,2025-07-07,Emergency,9.9,2161.77,381.8,Software update and diagnostics,2025-09-17
+MAINT-0628,MC-009,2025-03-13,Corrective,7.0,1305.34,179.7,Preventive maintenance - lubrication,2025-04-21
+MAINT-0629,MC-009,2025-04-20,Corrective,11.1,807.41,372.49,Corrective action - alignment issue,2025-07-14
+MAINT-0630,MC-009,2025-05-07,Emergency,18.5,4654.94,576.05,Emergency repair - component failure,2025-06-06
+MAINT-0631,MC-009,2025-07-13,Preventive,5.6,426.69,181.01,Routine calibration and cleaning,2025-09-19
+MAINT-0632,MC-009,2025-11-23,Preventive,4.8,279.65,167.73,Routine calibration and cleaning,2026-01-06
+MAINT-0633,MC-009,2025-11-04,Preventive,5.6,295.41,155.4,Replaced worn parts,2025-12-24
+MAINT-0634,MC-009,2025-12-09,Emergency,19.4,3780.08,567.88,Software update and diagnostics,2026-01-26
+MAINT-0635,MC-010,2025-02-25,Preventive,5.3,453.61,208.04,Emergency repair - component failure,2025-05-01
+MAINT-0636,MC-010,2025-04-05,Preventive,2.1,291.53,56.01,Emergency repair - component failure,2025-05-07
+MAINT-0637,MC-010,2025-03-03,Corrective,10.5,590.1,359.41,Corrective action - alignment issue,2025-04-30
+MAINT-0638,MC-010,2025-03-15,Preventive,2.2,473.45,80.3,Replaced worn parts,2025-04-26
+MAINT-0639,MC-010,2025-12-11,Preventive,2.1,161.08,79.57,Replaced worn parts,2026-01-26
+MAINT-0640,MC-010,2025-06-15,Preventive,4.6,256.52,125.56,Preventive maintenance - lubrication,2025-08-02
+MAINT-0641,MC-010,2025-02-08,Preventive,2.8,363.2,88.43,Emergency repair - component failure,2025-05-04
+MAINT-0642,MC-010,2025-02-27,Preventive,4.1,322.74,111.32,Routine calibration and cleaning,2025-04-18
+MAINT-0643,MC-011,2025-11-03,Preventive,4.1,347.43,112.95,Software update and diagnostics,2026-01-31
+MAINT-0644,MC-011,2025-06-02,Preventive,2.4,193.46,73.72,Routine calibration and cleaning,2025-08-07
+MAINT-0645,MC-011,2025-07-25,Preventive,5.4,404.87,137.85,Routine calibration and cleaning,2025-09-27
+MAINT-0646,MC-011,2025-01-21,Corrective,7.8,985.79,240.17,Preventive maintenance - lubrication,2025-04-04
+MAINT-0647,MC-011,2025-07-15,Emergency,11.8,2962.25,339.26,Emergency repair - component failure,2025-09-23
+MAINT-0648,MC-012,2025-03-15,Preventive,3.4,157.76,117.49,Emergency repair - component failure,2025-04-25
+MAINT-0649,MC-012,2025-05-06,Preventive,2.1,422.18,57.04,Emergency repair - component failure,2025-07-04
+MAINT-0650,MC-012,2025-12-18,Corrective,11.9,450.03,409.33,Emergency repair - component failure,2026-01-30
+MAINT-0651,MC-012,2025-07-14,Preventive,3.8,480.95,121.42,Software update and diagnostics,2025-09-03
+MAINT-0652,MC-012,2025-11-13,Preventive,4.1,198.4,146.32,Replaced worn parts,2026-01-18
+MAINT-0653,MC-012,2025-12-22,Corrective,6.9,856.05,261.76,Emergency repair - component failure,2026-03-12
+MAINT-0654,MC-012,2025-06-21,Preventive,3.6,288.09,119.31,Software update and diagnostics,2025-08-18
+MAINT-0655,MC-012,2025-10-14,Preventive,2.9,320.68,79.32,Preventive maintenance - lubrication,2025-12-07
+MAINT-0656,MC-012,2025-07-06,Emergency,8.4,1825.81,281.49,Software update and diagnostics,2025-08-16
+MAINT-0657,MC-012,2025-12-22,Preventive,2.6,260.75,95.49,Replaced worn parts,2026-02-02
+MAINT-0658,MC-012,2025-07-11,Preventive,5.5,152.22,214.33,Preventive maintenance - lubrication,2025-08-30
+MAINT-0659,MC-013,2025-12-21,Corrective,9.4,1244.35,247.09,Routine calibration and cleaning,2026-01-20
+MAINT-0660,MC-013,2025-06-28,Preventive,5.7,242.68,206.08,Software update and diagnostics,2025-08-10
+MAINT-0661,MC-013,2025-02-12,Corrective,6.5,1385.42,206.05,Corrective action - alignment issue,2025-04-04
+MAINT-0662,MC-013,2025-03-10,Preventive,5.2,163.92,198.68,Emergency repair - component failure,2025-04-19
+MAINT-0663,MC-013,2025-02-18,Emergency,14.6,3246.66,502.68,Software update and diagnostics,2025-05-03
+MAINT-0664,MC-013,2025-12-28,Emergency,23.6,3655.48,641.91,Routine calibration and cleaning,2026-02-24
+MAINT-0665,MC-013,2025-01-05,Corrective,7.8,872.26,284.76,Corrective action - alignment issue,2025-03-13
+MAINT-0666,MC-013,2025-06-15,Preventive,2.7,457.6,106.8,Corrective action - alignment issue,2025-09-13
+MAINT-0667,MC-013,2025-10-12,Corrective,11.9,1363.79,309.8,Preventive maintenance - lubrication,2025-11-19
+MAINT-0668,MC-013,2025-05-22,Preventive,2.6,497.16,95.85,Replaced worn parts,2025-08-02
+MAINT-0669,MC-013,2025-11-11,Preventive,5.2,414.63,157.67,Emergency repair - component failure,2026-01-31
+MAINT-0670,MC-013,2025-01-20,Corrective,7.3,502.87,275.71,Preventive maintenance - lubrication,2025-03-03
+MAINT-0671,MC-014,2025-09-01,Preventive,5.6,120.8,160.06,Software update and diagnostics,2025-10-20
+MAINT-0672,MC-014,2025-08-14,Preventive,3.1,498.04,108.04,Routine calibration and cleaning,2025-10-25
+MAINT-0673,MC-014,2025-06-18,Preventive,5.5,470.62,138.38,Routine calibration and cleaning,2025-08-23
+MAINT-0674,MC-014,2025-05-13,Preventive,3.9,255.36,138.17,Corrective action - alignment issue,2025-06-29
+MAINT-0675,MC-014,2025-07-11,Preventive,4.1,497.46,128.61,Software update and diagnostics,2025-09-24
+MAINT-0676,MC-014,2025-03-12,Corrective,8.4,886.6,243.6,Emergency repair - component failure,2025-06-08
+MAINT-0677,MC-014,2025-11-03,Corrective,11.3,1333.77,434.34,Replaced worn parts,2025-12-04
+MAINT-0678,MC-014,2025-02-08,Preventive,3.5,161.6,129.58,Routine calibration and cleaning,2025-04-28
+MAINT-0679,MC-015,2025-01-24,Preventive,5.2,448.06,178.16,Preventive maintenance - lubrication,2025-03-04
+MAINT-0680,MC-015,2025-11-28,Emergency,18.1,2323.6,633.03,Routine calibration and cleaning,2026-02-05
+MAINT-0681,MC-015,2025-01-23,Preventive,5.7,470.62,158.37,Routine calibration and cleaning,2025-04-08
+MAINT-0682,MC-015,2025-01-14,Corrective,5.9,360.0,154.53,Corrective action - alignment issue,2025-03-05
+MAINT-0683,MC-015,2025-09-07,Preventive,2.8,495.17,95.43,Emergency repair - component failure,2025-10-18
+MAINT-0684,MC-016,2025-12-22,Preventive,5.4,277.01,176.11,Replaced worn parts,2026-01-26
+MAINT-0685,MC-016,2025-04-09,Preventive,4.2,489.09,149.1,Routine calibration and cleaning,2025-06-22
+MAINT-0686,MC-016,2025-04-06,Corrective,10.1,573.26,312.29,Preventive maintenance - lubrication,2025-06-28
+MAINT-0687,MC-016,2025-05-20,Preventive,4.6,187.3,132.32,Corrective action - alignment issue,2025-07-11
+MAINT-0688,MC-016,2025-04-17,Preventive,5.6,373.41,163.64,Routine calibration and cleaning,2025-05-27
+MAINT-0689,MC-016,2025-01-03,Preventive,5.6,124.16,203.47,Routine calibration and cleaning,2025-03-01
+MAINT-0690,MC-016,2025-11-25,Corrective,7.6,1472.6,266.89,Preventive maintenance - lubrication,2026-01-14
+MAINT-0691,MC-016,2025-06-23,Corrective,9.4,379.05,272.0,Software update and diagnostics,2025-09-14
+MAINT-0692,MC-017,2025-06-24,Corrective,7.0,660.3,226.35,Corrective action - alignment issue,2025-08-27
+MAINT-0693,MC-017,2025-04-08,Preventive,2.2,241.16,70.34,Software update and diagnostics,2025-06-06
+MAINT-0694,MC-017,2025-07-15,Corrective,7.7,483.22,277.72,Emergency repair - component failure,2025-09-07
+MAINT-0695,MC-017,2025-01-28,Preventive,3.3,495.9,113.79,Software update and diagnostics,2025-03-24
+MAINT-0696,MC-017,2025-01-14,Corrective,9.3,507.34,315.21,Replaced worn parts,2025-02-24
+MAINT-0697,MC-017,2025-02-01,Preventive,2.6,234.93,65.85,Replaced worn parts,2025-03-28
+MAINT-0698,MC-017,2025-05-27,Emergency,16.8,1910.96,542.61,Emergency repair - component failure,2025-08-11
+MAINT-0699,MC-017,2025-07-14,Emergency,10.6,4876.4,274.5,Routine calibration and cleaning,2025-08-19
+MAINT-0700,MC-017,2025-06-23,Preventive,3.2,194.06,125.28,Replaced worn parts,2025-09-12
+MAINT-0701,MC-017,2025-07-16,Preventive,3.2,163.44,110.26,Preventive maintenance - lubrication,2025-09-27
+MAINT-0702,MC-017,2025-07-20,Preventive,2.5,212.76,89.68,Corrective action - alignment issue,2025-10-09
+MAINT-0703,MC-018,2025-06-19,Emergency,9.0,2788.31,281.3,Software update and diagnostics,2025-08-01
+MAINT-0704,MC-018,2025-12-08,Emergency,22.4,3535.49,863.02,Software update and diagnostics,2026-02-06
+MAINT-0705,MC-018,2025-09-11,Preventive,3.3,177.75,88.79,Corrective action - alignment issue,2025-10-31
+MAINT-0706,MC-018,2025-10-08,Corrective,8.9,1275.99,255.75,Emergency repair - component failure,2025-12-13
+MAINT-0707,MC-018,2025-01-11,Preventive,2.4,400.08,82.45,Preventive maintenance - lubrication,2025-02-15
+MAINT-0708,MC-018,2025-08-15,Corrective,11.1,1449.93,321.79,Emergency repair - component failure,2025-10-12
+MAINT-0709,MC-019,2025-05-23,Preventive,5.4,123.61,154.97,Routine calibration and cleaning,2025-08-01
+MAINT-0710,MC-019,2025-06-12,Corrective,7.9,475.34,229.82,Emergency repair - component failure,2025-08-01
+MAINT-0711,MC-019,2025-06-20,Corrective,5.6,1272.87,155.81,Preventive maintenance - lubrication,2025-09-17
+MAINT-0712,MC-019,2025-10-04,Preventive,2.2,453.91,72.28,Software update and diagnostics,2025-12-05
+MAINT-0713,MC-019,2025-04-26,Preventive,4.8,441.08,141.47,Replaced worn parts,2025-06-08
+MAINT-0714,MC-019,2025-05-01,Preventive,4.6,268.57,140.44,Replaced worn parts,2025-07-19
+MAINT-0715,MC-019,2025-08-21,Preventive,2.6,277.66,77.25,Software update and diagnostics,2025-11-18
+MAINT-0716,MC-020,2025-05-07,Corrective,7.6,495.48,204.65,Routine calibration and cleaning,2025-06-07
+MAINT-0717,MC-020,2025-01-28,Preventive,3.9,156.7,146.16,Preventive maintenance - lubrication,2025-03-23
+MAINT-0718,MC-020,2025-01-21,Preventive,3.3,171.2,112.85,Routine calibration and cleaning,2025-04-09
+MAINT-0719,MC-020,2025-11-10,Preventive,5.0,115.75,163.38,Corrective action - alignment issue,2026-01-25
+MAINT-0720,MC-020,2025-12-05,Preventive,5.7,155.96,151.24,Corrective action - alignment issue,2026-01-14
+MAINT-0721,MC-020,2025-04-03,Corrective,11.8,705.79,368.04,Routine calibration and cleaning,2025-06-20
+MAINT-0722,MC-020,2025-08-13,Preventive,4.1,356.73,126.85,Preventive maintenance - lubrication,2025-09-21
+MAINT-0723,MC-020,2025-02-27,Preventive,2.6,405.11,98.88,Replaced worn parts,2025-04-12
+MAINT-0724,MC-020,2025-01-21,Corrective,4.2,1071.48,148.93,Routine calibration and cleaning,2025-03-22
+MAINT-0725,MC-020,2025-01-08,Corrective,11.6,1445.31,313.96,Software update and diagnostics,2025-02-27
+MAINT-0726,MC-020,2025-07-25,Corrective,7.2,912.3,211.28,Corrective action - alignment issue,2025-08-25
+MAINT-0727,MC-021,2025-09-03,Preventive,4.4,183.53,148.46,Software update and diagnostics,2025-10-03
+MAINT-0728,MC-021,2025-12-03,Preventive,3.5,459.43,96.12,Replaced worn parts,2026-01-15
+MAINT-0729,MC-021,2025-09-01,Emergency,19.9,2125.67,663.54,Emergency repair - component failure,2025-11-02
+MAINT-0730,MC-021,2025-03-27,Preventive,4.4,233.79,131.59,Emergency repair - component failure,2025-05-12
+MAINT-0731,MC-021,2025-02-21,Preventive,2.1,341.35,73.02,Emergency repair - component failure,2025-04-24
+MAINT-0732,MC-021,2025-04-06,Preventive,3.5,142.69,136.49,Replaced worn parts,2025-05-19
+MAINT-0733,MC-021,2025-10-24,Corrective,10.7,1109.05,409.81,Software update and diagnostics,2026-01-14
+MAINT-0734,MC-021,2025-06-15,Preventive,4.5,326.74,172.2,Replaced worn parts,2025-07-31
+MAINT-0735,MC-021,2025-09-01,Preventive,2.9,172.37,87.03,Corrective action - alignment issue,2025-11-01
+MAINT-0736,MC-021,2025-07-24,Preventive,5.9,340.73,162.13,Emergency repair - component failure,2025-09-23
+MAINT-0737,MC-022,2025-10-10,Corrective,9.3,1425.39,243.34,Routine calibration and cleaning,2025-11-15
+MAINT-0738,MC-022,2025-01-20,Preventive,2.0,209.69,50.0,Emergency repair - component failure,2025-03-19
+MAINT-0739,MC-022,2025-12-19,Emergency,9.6,2472.2,332.99,Corrective action - alignment issue,2026-02-14
+MAINT-0740,MC-022,2025-06-03,Preventive,4.6,218.99,117.41,Software update and diagnostics,2025-07-10
+MAINT-0741,MC-022,2025-03-09,Preventive,5.7,493.31,220.7,Corrective action - alignment issue,2025-04-15
+MAINT-0742,MC-022,2025-12-22,Corrective,11.0,1418.45,303.81,Routine calibration and cleaning,2026-01-28
+MAINT-0743,MC-022,2025-12-08,Preventive,5.5,377.97,160.03,Corrective action - alignment issue,2026-01-08
+MAINT-0744,MC-022,2025-10-16,Preventive,4.8,186.19,148.62,Routine calibration and cleaning,2025-12-09
+MAINT-0745,MC-022,2025-01-16,Preventive,3.9,170.01,98.28,Routine calibration and cleaning,2025-04-13
+MAINT-0746,MC-022,2025-11-03,Emergency,22.0,3839.61,787.23,Software update and diagnostics,2025-12-15
+MAINT-0747,MC-022,2025-01-22,Preventive,5.5,193.93,174.46,Corrective action - alignment issue,2025-02-21
+MAINT-0748,MC-022,2025-01-28,Preventive,5.4,323.58,191.94,Replaced worn parts,2025-04-18
+MAINT-0749,MC-023,2025-05-12,Preventive,3.5,428.29,116.09,Corrective action - alignment issue,2025-07-04
+MAINT-0750,MC-023,2025-06-24,Preventive,2.6,394.08,78.52,Preventive maintenance - lubrication,2025-08-04
+MAINT-0751,MC-023,2025-07-12,Preventive,3.4,216.98,126.53,Emergency repair - component failure,2025-09-28
+MAINT-0752,MC-023,2025-11-18,Preventive,5.8,134.58,167.03,Software update and diagnostics,2025-12-26
+MAINT-0753,MC-024,2025-11-15,Preventive,4.2,372.14,161.05,Preventive maintenance - lubrication,2026-01-05
+MAINT-0754,MC-024,2025-11-05,Preventive,4.2,432.81,115.04,Preventive maintenance - lubrication,2026-01-25
+MAINT-0755,MC-024,2025-03-27,Corrective,10.6,775.62,395.93,Routine calibration and cleaning,2025-06-21
+MAINT-0756,MC-024,2025-09-18,Preventive,2.4,101.62,93.64,Replaced worn parts,2025-11-29
+MAINT-0757,MC-024,2025-12-08,Corrective,10.3,887.02,307.79,Software update and diagnostics,2026-03-01
+MAINT-0758,MC-024,2025-09-13,Preventive,5.3,187.63,160.42,Corrective action - alignment issue,2025-11-08
+MAINT-0759,MC-024,2025-02-08,Corrective,7.6,1301.22,292.06,Corrective action - alignment issue,2025-03-22
+MAINT-0760,MC-024,2025-01-26,Emergency,20.8,2980.81,805.74,Software update and diagnostics,2025-04-10
+MAINT-0761,MC-024,2025-04-25,Preventive,5.3,316.79,140.18,Replaced worn parts,2025-07-16
+MAINT-0762,MC-025,2025-01-01,Preventive,2.8,431.06,98.58,Software update and diagnostics,2025-02-04
+MAINT-0763,MC-025,2025-08-04,Preventive,3.4,261.2,120.59,Software update and diagnostics,2025-09-22
+MAINT-0764,MC-025,2025-07-12,Preventive,3.7,335.88,119.05,Preventive maintenance - lubrication,2025-09-19
+MAINT-0765,MC-025,2025-01-22,Preventive,2.1,227.85,53.48,Emergency repair - component failure,2025-04-06
+MAINT-0766,MC-026,2025-09-25,Preventive,4.8,348.09,145.28,Emergency repair - component failure,2025-12-07
+MAINT-0767,MC-026,2025-01-13,Preventive,3.9,462.35,125.28,Routine calibration and cleaning,2025-03-18
+MAINT-0768,MC-026,2025-02-08,Corrective,9.7,1406.77,308.66,Software update and diagnostics,2025-04-26
+MAINT-0769,MC-026,2025-04-20,Emergency,8.5,2239.25,311.59,Emergency repair - component failure,2025-07-13
+MAINT-0770,MC-026,2025-04-20,Preventive,2.0,151.35,75.88,Routine calibration and cleaning,2025-07-08
+MAINT-0771,MC-026,2025-09-15,Preventive,2.7,209.9,90.38,Preventive maintenance - lubrication,2025-12-05
+MAINT-0772,MC-026,2025-11-24,Preventive,4.3,379.29,139.18,Emergency repair - component failure,2026-02-19
+MAINT-0773,MC-026,2025-05-28,Preventive,3.2,232.57,85.26,Routine calibration and cleaning,2025-07-06
+MAINT-0774,MC-026,2025-04-16,Preventive,2.0,410.3,74.2,Replaced worn parts,2025-07-12
+MAINT-0775,MC-026,2025-07-02,Preventive,2.9,446.23,97.89,Replaced worn parts,2025-09-01
+MAINT-0776,MC-027,2025-12-04,Preventive,2.6,396.14,101.92,Routine calibration and cleaning,2026-02-08
+MAINT-0777,MC-027,2025-08-16,Preventive,4.8,108.22,157.81,Software update and diagnostics,2025-10-29
+MAINT-0778,MC-027,2025-11-18,Preventive,3.9,211.56,130.1,Routine calibration and cleaning,2026-01-14
+MAINT-0779,MC-027,2025-02-03,Preventive,5.8,243.06,179.92,Replaced worn parts,2025-05-02
+MAINT-0780,MC-027,2025-03-04,Preventive,2.3,174.72,64.28,Preventive maintenance - lubrication,2025-05-15
+MAINT-0781,MC-027,2025-06-18,Preventive,2.3,416.0,63.9,Routine calibration and cleaning,2025-08-13
+MAINT-0782,MC-027,2025-09-02,Preventive,2.6,153.29,92.36,Software update and diagnostics,2025-10-02
+MAINT-0783,MC-027,2025-01-17,Corrective,4.9,1099.09,165.54,Software update and diagnostics,2025-02-16
+MAINT-0784,MC-027,2025-03-11,Emergency,21.8,4204.9,606.69,Emergency repair - component failure,2025-05-10
+MAINT-0785,MC-027,2025-08-07,Preventive,3.6,353.36,119.24,Routine calibration and cleaning,2025-10-27
+MAINT-0786,MC-027,2025-03-22,Preventive,4.0,444.47,104.08,Routine calibration and cleaning,2025-05-23
+MAINT-0787,MC-028,2025-04-21,Corrective,10.7,734.07,303.67,Emergency repair - component failure,2025-06-06
+MAINT-0788,MC-028,2025-01-25,Preventive,5.5,412.25,139.78,Corrective action - alignment issue,2025-04-07
+MAINT-0789,MC-028,2025-06-13,Preventive,5.3,189.89,204.65,Preventive maintenance - lubrication,2025-08-12
+MAINT-0790,MC-028,2025-09-14,Corrective,10.0,488.74,339.85,Emergency repair - component failure,2025-11-01
+MAINT-0791,MC-028,2025-02-14,Preventive,3.7,324.67,131.6,Replaced worn parts,2025-05-04
+MAINT-0792,MC-028,2025-11-02,Preventive,3.6,285.8,133.57,Software update and diagnostics,2026-01-29
+MAINT-0793,MC-029,2025-09-20,Preventive,3.2,479.4,104.55,Corrective action - alignment issue,2025-11-13
+MAINT-0794,MC-029,2025-10-23,Preventive,4.7,339.74,172.9,Emergency repair - component failure,2025-11-30
+MAINT-0795,MC-029,2025-06-03,Corrective,11.8,939.29,404.1,Software update and diagnostics,2025-07-07
+MAINT-0796,MC-029,2025-11-09,Emergency,22.0,3377.74,625.19,Software update and diagnostics,2026-02-06
+MAINT-0797,MC-029,2025-04-19,Preventive,5.9,176.74,177.15,Emergency repair - component failure,2025-07-01
+MAINT-0798,MC-029,2025-05-09,Preventive,4.7,175.34,160.72,Replaced worn parts,2025-07-28
+MAINT-0799,MC-029,2025-12-10,Preventive,4.7,385.05,156.48,Emergency repair - component failure,2026-01-22
+MAINT-0800,MC-029,2025-10-17,Preventive,4.9,450.46,169.44,Preventive maintenance - lubrication,2025-11-29
+MAINT-0801,MC-030,2025-03-21,Corrective,7.0,769.96,250.29,Preventive maintenance - lubrication,2025-06-18
+MAINT-0802,MC-030,2025-08-18,Preventive,3.0,128.82,80.6,Preventive maintenance - lubrication,2025-10-11
+MAINT-0803,MC-030,2025-07-01,Preventive,5.2,201.92,168.61,Preventive maintenance - lubrication,2025-09-28
+MAINT-0804,MC-030,2025-10-27,Preventive,4.3,179.68,110.79,Corrective action - alignment issue,2025-12-23
+MAINT-0805,MC-030,2025-08-20,Preventive,3.7,225.26,100.25,Software update and diagnostics,2025-09-26
+MAINT-0806,MC-030,2025-01-02,Corrective,6.2,958.19,179.96,Routine calibration and cleaning,2025-03-23
+MAINT-0807,MC-030,2025-12-22,Preventive,2.2,364.12,56.98,Software update and diagnostics,2026-01-28
+MAINT-0808,MC-030,2025-10-24,Preventive,3.7,192.2,126.82,Software update and diagnostics,2025-12-29
+MAINT-0809,MC-030,2025-09-12,Corrective,5.2,964.45,154.7,Replaced worn parts,2025-10-26
+MAINT-0810,MC-031,2025-04-18,Corrective,11.6,409.41,418.84,Emergency repair - component failure,2025-06-04
+MAINT-0811,MC-031,2025-02-04,Preventive,3.6,196.81,122.92,Replaced worn parts,2025-05-02
+MAINT-0812,MC-031,2025-04-09,Preventive,3.0,223.4,101.08,Emergency repair - component failure,2025-06-16
+MAINT-0813,MC-031,2025-08-07,Preventive,5.4,263.41,170.97,Corrective action - alignment issue,2025-09-15
+MAINT-0814,MC-031,2025-07-28,Corrective,7.0,949.52,203.53,Corrective action - alignment issue,2025-10-22
+MAINT-0815,MC-031,2025-08-14,Corrective,8.2,686.5,266.38,Emergency repair - component failure,2025-10-22
+MAINT-0816,MC-031,2025-08-20,Preventive,2.6,130.94,97.64,Emergency repair - component failure,2025-11-01
+MAINT-0817,MC-031,2025-03-26,Preventive,2.9,241.31,84.43,Software update and diagnostics,2025-06-09
+MAINT-0818,MC-031,2025-04-13,Corrective,7.8,329.13,304.43,Corrective action - alignment issue,2025-05-28
+MAINT-0819,MC-031,2025-12-03,Preventive,5.2,255.55,156.92,Routine calibration and cleaning,2026-01-26
+MAINT-0820,MC-032,2025-07-24,Preventive,3.7,274.94,111.83,Software update and diagnostics,2025-09-09
+MAINT-0821,MC-032,2025-05-16,Preventive,2.9,334.2,95.0,Replaced worn parts,2025-07-18
+MAINT-0822,MC-032,2025-01-13,Preventive,5.0,135.99,193.69,Preventive maintenance - lubrication,2025-02-17
+MAINT-0823,MC-032,2025-12-18,Preventive,2.3,472.8,73.13,Replaced worn parts,2026-02-04
+MAINT-0824,MC-032,2025-07-09,Corrective,5.5,791.36,151.25,Replaced worn parts,2025-08-12
+MAINT-0825,MC-032,2025-02-20,Preventive,4.6,413.71,180.81,Corrective action - alignment issue,2025-05-21
+MAINT-0826,MC-032,2025-03-10,Preventive,5.8,457.97,165.55,Replaced worn parts,2025-05-30
+MAINT-0827,MC-032,2025-10-23,Preventive,5.1,207.62,187.41,Routine calibration and cleaning,2025-12-26
+MAINT-0828,MC-032,2025-08-18,Corrective,9.8,483.26,382.03,Routine calibration and cleaning,2025-10-02
+MAINT-0829,MC-032,2025-06-28,Preventive,3.1,425.32,100.79,Routine calibration and cleaning,2025-09-23
+MAINT-0830,MC-032,2025-07-05,Preventive,3.9,438.61,111.65,Software update and diagnostics,2025-09-11
+MAINT-0831,MC-033,2025-08-08,Preventive,4.8,385.37,131.67,Routine calibration and cleaning,2025-10-15
+MAINT-0832,MC-033,2025-02-13,Preventive,3.1,311.56,100.28,Emergency repair - component failure,2025-05-02
+MAINT-0833,MC-033,2025-09-18,Corrective,11.1,859.94,385.28,Software update and diagnostics,2025-11-20
+MAINT-0834,MC-033,2025-10-19,Corrective,10.0,1201.96,328.52,Replaced worn parts,2025-12-14
+MAINT-0835,MC-033,2025-09-28,Preventive,5.2,182.76,176.78,Software update and diagnostics,2025-11-20
+MAINT-0836,MC-033,2025-02-20,Emergency,14.1,2198.07,357.55,Replaced worn parts,2025-04-22
+MAINT-0837,MC-033,2025-01-07,Preventive,4.6,158.87,174.7,Corrective action - alignment issue,2025-03-28
+MAINT-0838,MC-033,2025-03-21,Corrective,7.2,470.78,277.25,Emergency repair - component failure,2025-06-16
+MAINT-0839,MC-034,2025-08-13,Preventive,3.9,452.95,124.6,Routine calibration and cleaning,2025-10-08
+MAINT-0840,MC-034,2025-04-05,Corrective,11.4,654.5,294.08,Emergency repair - component failure,2025-06-03
+MAINT-0841,MC-034,2025-11-28,Preventive,4.4,241.91,143.83,Routine calibration and cleaning,2026-01-27
+MAINT-0842,MC-034,2025-08-03,Preventive,2.8,468.79,76.97,Replaced worn parts,2025-09-08
+MAINT-0843,MC-034,2025-12-23,Preventive,2.2,303.8,75.81,Routine calibration and cleaning,2026-02-14
+MAINT-0844,MC-034,2025-08-13,Preventive,4.5,238.77,134.54,Routine calibration and cleaning,2025-10-05
+MAINT-0845,MC-034,2025-09-19,Preventive,3.8,295.01,138.53,Corrective action - alignment issue,2025-10-21
+MAINT-0846,MC-034,2025-09-24,Corrective,8.0,1498.37,218.4,Emergency repair - component failure,2025-12-15
+MAINT-0847,MC-035,2025-11-23,Preventive,4.9,206.84,132.95,Replaced worn parts,2026-02-19
+MAINT-0848,MC-035,2025-02-20,Preventive,3.6,116.76,106.36,Replaced worn parts,2025-03-30
+MAINT-0849,MC-035,2025-07-19,Preventive,5.2,453.27,163.3,Software update and diagnostics,2025-09-23
+MAINT-0850,MC-035,2025-04-01,Emergency,10.6,1149.84,380.63,Routine calibration and cleaning,2025-06-20
+MAINT-0851,MC-035,2025-04-15,Emergency,10.6,3690.45,283.16,Emergency repair - component failure,2025-06-26
+MAINT-0852,MC-035,2025-06-20,Corrective,7.0,862.71,275.43,Preventive maintenance - lubrication,2025-08-25
+MAINT-0853,MC-035,2025-09-27,Corrective,9.1,691.84,248.74,Corrective action - alignment issue,2025-12-09
+MAINT-0854,MC-035,2025-10-17,Corrective,10.4,1233.96,298.27,Routine calibration and cleaning,2026-01-07
+MAINT-0855,MC-035,2025-07-16,Preventive,5.8,220.23,229.63,Routine calibration and cleaning,2025-09-09
+MAINT-0856,MC-036,2025-05-04,Corrective,8.4,1313.39,237.59,Emergency repair - component failure,2025-06-18
+MAINT-0857,MC-036,2025-03-04,Corrective,8.0,795.17,247.98,Software update and diagnostics,2025-05-09
+MAINT-0858,MC-036,2025-05-03,Preventive,4.5,479.4,157.24,Software update and diagnostics,2025-07-21
+MAINT-0859,MC-036,2025-01-14,Preventive,3.7,265.69,146.8,Software update and diagnostics,2025-03-06
+MAINT-0860,MC-036,2025-02-10,Preventive,5.5,296.74,216.56,Replaced worn parts,2025-04-18
+MAINT-0861,MC-036,2025-07-14,Corrective,6.3,1032.69,173.08,Preventive maintenance - lubrication,2025-08-23
+MAINT-0862,MC-036,2025-06-19,Preventive,2.3,132.84,84.97,Replaced worn parts,2025-07-19
+MAINT-0863,MC-036,2025-09-14,Preventive,2.4,488.02,89.09,Replaced worn parts,2025-11-24

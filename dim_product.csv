@@ -1,0 +1,46 @@
+product_id,layer_count,surface_finish,board_complexity,technology_type
+PROD-001,4,ENIG,Simple,Standard
+PROD-002,4,HASL,Simple,Standard
+PROD-003,4,OSP,Simple,Standard
+PROD-004,4,Immersion Gold,Simple,Standard
+PROD-005,4,Hard Gold,Simple,Standard
+PROD-006,6,ENIG,Simple,Standard
+PROD-007,6,HASL,Simple,Standard
+PROD-008,6,OSP,Simple,Standard
+PROD-009,6,Immersion Gold,Simple,Standard
+PROD-010,6,Hard Gold,Simple,Standard
+PROD-011,8,ENIG,Medium,Standard
+PROD-012,8,HASL,Medium,Standard
+PROD-013,8,OSP,Medium,Standard
+PROD-014,8,Immersion Gold,Medium,Standard
+PROD-015,8,Hard Gold,Medium,Standard
+PROD-016,10,ENIG,Medium,HDI
+PROD-017,10,HASL,Medium,HDI
+PROD-018,10,OSP,Medium,HDI
+PROD-019,10,Immersion Gold,Medium,HDI
+PROD-020,10,Hard Gold,Medium,HDI
+PROD-021,12,ENIG,Medium,HDI
+PROD-022,12,HASL,Medium,HDI
+PROD-023,12,OSP,Medium,HDI
+PROD-024,12,Immersion Gold,Medium,HDI
+PROD-025,12,Hard Gold,Medium,HDI
+PROD-026,16,ENIG,Complex,HDI
+PROD-027,16,HASL,Complex,HDI
+PROD-028,16,OSP,Complex,HDI
+PROD-029,16,Immersion Gold,Complex,HDI
+PROD-030,16,Hard Gold,Complex,HDI
+PROD-031,20,ENIG,Complex,HDI
+PROD-032,20,HASL,Complex,HDI
+PROD-033,20,OSP,Complex,HDI
+PROD-034,20,Immersion Gold,Complex,HDI
+PROD-035,20,Hard Gold,Complex,HDI
+PROD-036,24,ENIG,Complex,HDI
+PROD-037,24,HASL,Complex,HDI
+PROD-038,24,OSP,Complex,HDI
+PROD-039,24,Immersion Gold,Complex,HDI
+PROD-040,24,Hard Gold,Complex,HDI
+PROD-041,30,ENIG,Complex,HDI
+PROD-042,30,HASL,Complex,HDI
+PROD-043,30,OSP,Complex,HDI
+PROD-044,30,Immersion Gold,Complex,HDI
+PROD-045,30,Hard Gold,Complex,HDI

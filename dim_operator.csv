@@ -1,0 +1,61 @@
+operator_id,first_name,last_name,department,shift,experience_years,status,full_name,hourly_rate_usd
+OP-100,Mark,Nguyen,Plating,Night,11,Active,Mark Nguyen,24.6
+OP-101,Bilal,Sato,Drill,Night,7,Active,Bilal Sato,21.5
+OP-102,Amira,Ali,Lamination,Night,6,Active,Amira Ali,21.45
+OP-103,Amira,Khan,Drill,Morning,1,Active,Amira Khan,18.5
+OP-104,Olga,Chen,Etch,Night,11,Active,Olga Chen,24.05
+OP-105,Lina,Sato,Lamination,Morning,3,Active,Lina Sato,19.73
+OP-106,Mark,Ali,Etch,Night,2,On Leave,Mark Ali,19.1
+OP-107,Sara,Perez,Etch,Evening,5,Active,Sara Perez,20.75
+OP-108,Mark,Ghosh,ENIG,Night,14,Active,Mark Ghosh,27.1
+OP-109,Sara,Ghosh,Lamination,Evening,14,Active,Sara Ghosh,26.05
+OP-110,Fatima,Nguyen,SM,Morning,2,Active,Fatima Nguyen,19.1
+OP-111,Sara,Perez,SM,Evening,8,Active,Sara Perez,22.4
+OP-112,Karim,Ghosh,Plating,Morning,2,Active,Karim Ghosh,19.2
+OP-113,Amira,Perez,Etch,Morning,9,Active,Amira Perez,22.95
+OP-114,Alex,Chen,ENIG,Morning,8,Active,Alex Chen,23.2
+OP-115,Amira,Ghosh,ENIG,Night,3,Active,Amira Ghosh,19.95
+OP-116,Lina,Lee,Etch,Night,5,On Leave,Lina Lee,20.75
+OP-117,Fatima,Chen,Lamination,Night,9,Active,Fatima Chen,23.18
+OP-118,Sara,Smith,Inspection,Night,7,Active,Sara Smith,22.2
+OP-119,Bilal,Lee,Lamination,Evening,11,Active,Bilal Lee,24.32
+OP-120,Lina,Ali,ENIG,Evening,3,Active,Lina Ali,19.95
+OP-121,Fatima,Sato,ENIG,Evening,7,Active,Fatima Sato,22.55
+OP-122,Fatima,Perez,Lamination,Morning,3,Active,Fatima Perez,19.73
+OP-123,Mark,Smith,Lamination,Morning,4,On Leave,Mark Smith,20.3
+OP-124,Mark,Sato,Plating,Night,11,Active,Mark Sato,24.6
+OP-125,Mark,Lee,SM,Evening,10,Active,Mark Lee,23.5
+OP-126,Karim,Ali,SM,Evening,14,Active,Karim Ali,25.7
+OP-127,Fatima,Sato,Lamination,Morning,7,On Leave,Fatima Sato,22.02
+OP-128,Alex,Chen,AOI,Evening,9,Active,Alex Chen,23.62
+OP-129,Karim,Lee,ENIG,Evening,8,Active,Karim Lee,23.2
+OP-130,Bilal,Smith,AOI,Evening,12,Active,Bilal Smith,25.5
+OP-131,Olga,Ghosh,Etch,Morning,14,On Leave,Olga Ghosh,25.7
+OP-132,Tarek,Sato,Drill,Night,1,Active,Tarek Sato,18.5
+OP-133,Amira,Smith,AOI,Morning,2,Active,Amira Smith,19.25
+OP-134,Olga,Sato,Plating,Morning,1,Active,Olga Sato,18.6
+OP-135,Sara,Ali,Lamination,Evening,6,Active,Sara Ali,21.45
+OP-136,Tarek,Sato,AOI,Night,1,Active,Tarek Sato,18.62
+OP-137,Amira,Ali,Lamination,Evening,6,Active,Amira Ali,21.45
+OP-138,Alex,Chen,Lamination,Night,6,Active,Alex Chen,21.45
+OP-139,Lina,Nguyen,Lamination,Night,4,Active,Lina Nguyen,20.3
+OP-140,Lina,Lee,Lamination,Night,4,On Leave,Lina Lee,20.3
+OP-141,Amira,Sato,Drill,Morning,11,Active,Amira Sato,23.5
+OP-142,Karim,Haddad,ENIG,Night,14,Active,Karim Haddad,27.1
+OP-143,Mark,Perez,Inspection,Morning,4,Active,Mark Perez,20.4
+OP-144,Sara,Smith,Inspection,Evening,12,Active,Sara Smith,25.2
+OP-145,Mark,Chen,Etch,Night,3,Active,Mark Chen,19.65
+OP-146,Lina,Nguyen,Inspection,Evening,8,Active,Lina Nguyen,22.8
+OP-147,Tarek,Smith,Inspection,Evening,8,Active,Tarek Smith,22.8
+OP-148,Lina,Chen,AOI,Morning,13,Active,Lina Chen,26.12
+OP-149,Sara,Haddad,SM,Night,13,Active,Sara Haddad,25.15
+OP-150,Alex,Nguyen,Etch,Evening,5,Active,Alex Nguyen,20.75
+OP-151,Amira,Ghosh,ENIG,Night,1,Active,Amira Ghosh,18.65
+OP-152,Lina,Khan,ENIG,Evening,14,Active,Lina Khan,27.1
+OP-153,Olga,Lee,SM,Night,11,Active,Olga Lee,24.05
+OP-154,Alex,Smith,Plating,Morning,3,Active,Alex Smith,19.8
+OP-155,Alex,Smith,Lamination,Evening,13,Active,Alex Smith,25.48
+OP-156,Olga,Lee,Lamination,Morning,5,On Leave,Olga Lee,20.88
+OP-157,Alex,Ali,ENIG,Night,12,Active,Alex Ali,25.8
+OP-158,Bilal,Sato,Etch,Night,2,Active,Bilal Sato,19.1
+OP-159,Olga,Perez,AOI,Evening,8,Active,Olga Perez,23.0

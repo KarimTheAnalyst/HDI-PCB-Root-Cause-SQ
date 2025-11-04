@@ -1,0 +1,11 @@
+process_id,process_step,process_category,standard_cycle_time_min,quality_check_required
+PROC-001,Inner Layer Etch,Etching,30,True
+PROC-002,AOI Inner,Inspection,25,True
+PROC-003,Lamination,Lamination,35,False
+PROC-004,Drill,Drilling,28,False
+PROC-005,Desmear,Chemical,20,False
+PROC-006,Plating,Plating,32,False
+PROC-007,AOI Outer,Inspection,22,True
+PROC-008,Solder Mask,Coating,25,False
+PROC-009,Surface Finish (ENIG),Finishing,30,False
+PROC-010,Final Inspection,Inspection,20,True

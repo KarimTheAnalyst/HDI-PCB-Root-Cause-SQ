@@ -1,0 +1,37 @@
+machine_id,machine_name,machine_type,manufacturer,installation_date,status,maintenance_cost_per_hour
+MC-001,Drill-1,Drill,Schmoll,2018-12-09,Operational,6.4
+MC-002,Drill-2,Drill,Schmoll,2022-02-19,Operational,5.3
+MC-003,Drill-3,Drill,Chemcut,2019-09-20,Operational,6.99
+MC-004,Drill-4,Drill,Orbotech,2022-07-08,Operational,7.78
+MC-005,Drill-5,Drill,Koh Young,2018-03-23,Operational,7.78
+MC-006,Etch-1,Etch,Koh Young,2020-02-03,Operational,8.59
+MC-007,Etch-2,Etch,Burkle,2022-05-26,Operational,9.59
+MC-008,Etch-3,Etch,Schmoll,2021-02-18,Operational,11.29
+MC-009,Lamination-1,Lamination,MacDermid,2019-12-03,Operational,7.28
+MC-010,Lamination-2,Lamination,Burkle,2018-04-28,Operational,7.78
+MC-011,Lamination-3,Lamination,Orbotech,2020-03-12,Operational,11.7
+MC-012,Lamination-4,Lamination,Orbotech,2018-10-21,Operational,12.29
+MC-013,Plating-1,Plating,Atotech,2021-05-21,Operational,7.2
+MC-014,Plating-2,Plating,Burkle,2018-04-27,Operational,8.15
+MC-015,Plating-3,Plating,Burkle,2018-04-19,Operational,8.15
+MC-016,ENIG-1,ENIG,Atotech,2021-11-15,Operational,6.4
+MC-017,ENIG-2,ENIG,Orbotech,2022-09-09,Operational,9.28
+MC-018,ENIG-3,ENIG,MacDermid,2021-06-08,Maintenance,6.38
+MC-019,ENIG-4,ENIG,Atotech,2018-01-28,Operational,11.27
+MC-020,ENIG-5,ENIG,Koh Young,2021-10-03,Operational,10.96
+MC-021,SM-1,SM,MacDermid,2020-09-28,Operational,11.8
+MC-022,SM-2,SM,Schmoll,2022-05-25,Operational,6.12
+MC-023,SM-3,SM,Atotech,2019-08-01,Maintenance,13.76
+MC-024,SM-4,SM,Burkle,2022-03-17,Operational,13.71
+MC-025,AOI-1,AOI,Koh Young,2022-10-07,Operational,12.63
+MC-026,AOI-2,AOI,MacDermid,2022-01-20,Operational,5.19
+MC-027,AOI-3,AOI,Burkle,2020-04-02,Operational,10.67
+MC-028,AOI-4,AOI,Schmoll,2018-12-16,Operational,14.78
+MC-029,Inspection-1,Inspection,Koh Young,2019-03-22,Operational,10.5
+MC-030,Inspection-2,Inspection,Burkle,2022-10-14,Maintenance,14.29
+MC-031,Inspection-3,Inspection,Koh Young,2019-12-10,Operational,11.72
+MC-032,Inspection-4,Inspection,Burkle,2021-09-15,Operational,7.25
+MC-033,Inspection-5,Inspection,Burkle,2018-10-18,Operational,7.2
+MC-034,Desmear-1,Desmear,Orbotech,2018-04-03,Operational,13.6
+MC-035,Desmear-2,Desmear,Schmoll,2022-04-09,Operational,7.14
+MC-036,Desmear-3,Desmear,Chemcut,2022-10-16,Operational,9.73
