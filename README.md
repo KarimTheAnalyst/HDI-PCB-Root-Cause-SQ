@@ -86,5 +86,4 @@ Aspiring Data Analyst | PhD in Physics | R&D Professional |
 [LinkedIn](https://www.linkedin.com)
 
 
-[LinkedIn: YourLinkedInProfile]
 
