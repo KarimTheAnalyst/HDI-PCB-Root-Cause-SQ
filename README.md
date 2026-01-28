@@ -1,8 +1,9 @@
 # HDI PCB Manufacturing Root Cause Analysis (SQL)
 
 ## 1. Business Problem
-In HDI PCB manufacturing, defects, scrap, and rework have a direct impact on **yield, production cost, and delivery time**.  
-The objective of this project is to identify the **root causes of manufacturing defects**, quantify their **impact on yield and cost**, and support **data-driven decision-making** for quality and process improvement.
+In manufacturing, defects, scrap, and rework directly impact **yield, cost, and delivery time**.  
+This project uses an HDI PCB production scenario as a **high-complexity example** to demonstrate a transferable root cause analytics approach.
+
 
 This analysis is designed to help **manufacturing, quality, and engineering teams** prioritize corrective actions based on measurable business impact.
 
@@ -18,6 +19,9 @@ This analysis is designed to help **manufacturing, quality, and engineering team
   - Scrap and rework driven by process instability and equipment conditions
 
 The analytical structure and logic are **production-ready** and transferable to real factory data.
+
+Although the case scenario is HDI PCB, the workflow and SQL logic are designed to be **transferable to other manufacturing environments** (electronics, aerospace, automotive, medical devices).
+
 
 ---
 
@@ -74,6 +78,6 @@ Overall, the approach helps shift from reactive quality control to **proactive p
 
 ---
 ## Final Note
-This project demonstrates how **manufacturing data analysis** can transform raw production data into **actionable insights** that support quality improvement and operational excellence in HDI PCB manufacturing.
-## Final Note
+This project demonstrates a transferable manufacturing analytics workflow that turns production data into actionable insights for quality improvement and operational excellence.
+
 This project demonstrates how **manufacturing data analysis** can transform raw production data into **actionable insights** that support quality improvement and operational excellence in HDI PCB manufacturing.
