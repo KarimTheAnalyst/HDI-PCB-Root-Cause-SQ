@@ -80,4 +80,3 @@ Overall, the approach helps shift from reactive quality control to **proactive p
 ## Final Note
 This project demonstrates a transferable manufacturing analytics workflow that turns production data into actionable insights for quality improvement and operational excellence.
 
-This project demonstrates how **manufacturing data analysis** can transform raw production data into **actionable insights** that support quality improvement and operational excellence in HDI PCB manufacturing.
